@@ -1,31 +1,50 @@
 site_name: GFK Prüfungsvorbereitung
+site_url: https://bobobass84.github.io/BB84.GFK/
 docs_dir: docs
 
 nav:
   - Übersicht: Prüfungsschwerpunkte.md
   - Schwerpunkte:
-    - Gründung im Handwerk: Schwerpunkte/Gründung im Handwerk.md
-    - Marketing: Schwerpunkte/Marketing.md
-    - Rechtsformen: Schwerpunkte/Rechtsformen.md
-    - Finanzierung: Schwerpunkte/Finanzierung.md
-    - Rentabilitätsvorschau: Schwerpunkte/Rentabilitätsvorschau.md
-    - Personalwesen: Schwerpunkte/Personalwesen.md
-    - Kommunikation: Schwerpunkte/Kommunikation.md
-    - Arbeitsrecht: Schwerpunkte/Arbeitsrecht.md
-    - Organisation: Schwerpunkte/Organisation.md
-    - Bürgerliches Gesetzbuch: Schwerpunkte/Bürgerliches Gesetzbuch.md
-    - Wirtschaftsrecht: Schwerpunkte/Wirtschaftsrecht.md
-    - Steuern: Schwerpunkte/Steuern.md
-    - Controlling: Schwerpunkte/Controlling.md
-    - Kosten-Leistungs-Rechnung: Schwerpunkte/Kosten-Leistungs-Rechnung.md
-    - Kommunikations- und Präsentationstechniken: Schwerpunkte/Kommunikations- und Präsentationstechniken.md
+      - Gründung im Handwerk: Schwerpunkte/Gründung im Handwerk.md
+      - Marketing: Schwerpunkte/Marketing.md
+      - Rechtsformen: Schwerpunkte/Rechtsformen.md
+      - Finanzierung: Schwerpunkte/Finanzierung.md
+      - Rentabilitätsvorschau: Schwerpunkte/Rentabilitätsvorschau.md
+      - Personalwesen: Schwerpunkte/Personalwesen.md
+      - Kommunikation: Schwerpunkte/Kommunikation.md
+      - Arbeitsrecht: Schwerpunkte/Arbeitsrecht.md
+      - Organisation: Schwerpunkte/Organisation.md
+      - Bürgerliches Gesetzbuch: Schwerpunkte/Bürgerliches Gesetzbuch.md
+      - Wirtschaftsrecht: Schwerpunkte/Wirtschaftsrecht.md
+      - Steuern: Schwerpunkte/Steuern.md
+      - Controlling: Schwerpunkte/Controlling.md
+      - Kosten-Leistungs-Rechnung: Schwerpunkte/Kosten-Leistungs-Rechnung.md
+      - Kommunikations- und Präsentationstechniken: Schwerpunkte/Kommunikations- und Präsentationstechniken.md
 
 theme:
   name: material
   language: de
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Dunkelmodus
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Hellmodus
   features:
     - navigation.expand
+    - navigation.top
+    - navigation.sections
     - search.highlight
+    - search.suggest
+    - content.code.copy
+    - toc.follow
 
 plugins:
   - search:
