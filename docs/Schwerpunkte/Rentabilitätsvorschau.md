@@ -4,12 +4,12 @@
 
 Die Finanzierung eines Betriebes gliedert sich nach Kapitalherkunft und Kapitalbildung.
 
-**Nach der Kapitalherkunft unterscheidet man:**
+### 1.1 Kapitalherkunft
 
 - **Außenfinanzierung** bedeutet die Zuführung von Finanzmitteln von außen, zum Beispiel durch Einlagen, Beteiligungen oder Kredite.
 - **Innenfinanzierung** bedeutet die Zuführung von Finanzmitteln von innen, zum Beispiel durch Einbehaltung von Gewinnen oder Vermögensumschichtung.
 
-**Nach der Kapitalbildung unterscheidet man folgende Arten:**
+### 1.2 Kapitalbildung
 
 - **Eigenfinanzierung** ist der Einsatz von Mitteln des Privatvermögens für betriebliche Zwecke. Dazu gehören Bargeld, Bankguthaben, Sacheinlagen (Maschinen, Pkw zum Zeitwert) und Beteiligungskapital. Ein Eigenkapitalanteil von mindestens 20 Prozent wird empfohlen.
 - **Selbstfinanzierung** ist die Kapitalbildung durch im Betrieb erzielte und nicht entnommene Gewinne. Sie gilt als erstrebenswertes finanzpolitisches Ziel.
@@ -44,7 +44,7 @@ Nach dem Handelsrecht unterscheidet man planmäßige und außerplanmäßige Absc
 
 Liquidität ist die Fähigkeit eines Unternehmens, seinen fälligen Zahlungsverpflichtungen zu jedem Zeitpunkt nachkommen zu können.
 
-Soll-Ist-Vergleich: Nach Ablauf des Planungszeitraums werden die Soll-Beträge des Liquiditätsplans mit den Ist-Beträgen verglichen. Aus den Abweichungen ergeben sich Hinweise auf Verbesserungen der Planungsgenauigkeit und auf Handlungsbedarf.
+**Soll-Ist-Vergleich:** Nach Ablauf des Planungszeitraums werden die Soll-Beträge des Liquiditätsplans mit den Ist-Beträgen verglichen. Aus den Abweichungen ergeben sich Hinweise auf Verbesserungen der Planungsgenauigkeit und auf Handlungsbedarf.
 
 Ursachen für Abweichungen und Handlungsbedarf liegen häufig in folgenden Bereichen: Forderungsausfälle, unvorhergesehene Mehrausgaben wie Steuernachzahlungen, oder Einnahmerückgänge.
 
@@ -94,7 +94,7 @@ Der Liquiditätsplan gliedert sich in drei Hauptbereiche:
 
 **Anfangsbestand:** (Kasse, Bank) zu Beginn des Planungszeitraums.
 
-### Einzahlungen (Einnahmenseite)
+### 5.1 Einzahlungen (Einnahmenseite)
 
 - Stand der Zahlungsmittel zu Beginn der Planungsperiode
 - Geldeingang aus Forderungen
@@ -110,7 +110,7 @@ Der Liquiditätsplan gliedert sich in drei Hauptbereiche:
 - Einlagen aus Privatvermögen
 - sonstige Einnahmen
 
-### Auszahlungen (Ausgabenseite)
+### 5.2 Auszahlungen (Ausgabenseite)
 
 - Materialeinkauf und Warenbezug
 - Personalkosten (Löhne und Gehälter, Lohnnebenkosten)
@@ -139,15 +139,17 @@ Der Liquiditätsplan wird für das erste Jahr monatlich erstellt. Für Folgejahr
 
 Nach der Laufzeit unterscheidet man:
 
-Kurzfristige Kredite haben eine Laufzeit bis zu 1 Jahr. Die wichtigsten Arten sind:
+- Kurzfristige Kredite haben eine Laufzeit bis zu 1 Jahr.
+- Mittelfristige Kredite haben eine Laufzeit bis zu 5 Jahren.
+- Langfristige Kredite haben eine Laufzeit von mehr als 5 Jahren.
+
+### 6.1 Die wichtigsten Kreditarten
 
 - **Kontokorrentkredit:** Ein Kredit in laufender Rechnung, der dem Betrieb als Liquiditätsstütze dient. Er kann je nach Bedarf bis zur vereinbarten Höchstgrenze in Anspruch genommen werden. Nur der tatsächlich in Anspruch genommene Betrag wird verzinst.
 - **Lieferantenkredit:** Entsteht durch Ausnutzung von Zahlungszielen bei Lieferanten. Verursacht Kosten durch Verzicht auf Skontoabzug. Es kann vorteilhaft sein, zur Ausnutzung von Skonto einen kurzfristigen Bankkredit aufzunehmen, wenn die Kreditkosten geringer sind als die Skontoersparnis.
 - **Kundenzahlungskredit (Vorauszahlung):** Der Kunde bezahlt, bevor die Leistung vollständig erbracht wurde (Vorkasse oder Anzahlungen).
 
-Mittelfristige Kredite haben eine Laufzeit bis zu 5 Jahren.
-
-Langfristige Kredite haben eine Laufzeit von mehr als 5 Jahren. Die wichtigste Form ist das Darlehen:
+### 6.2 Die wichtigsten Darlehensformen
 
 - **Festdarlehen (endfälliges Darlehen):** Die gesamte Darlehenssumme wird am Ende der Laufzeit zurückgezahlt. Während der Laufzeit werden nur Zinsen gezahlt.
 - **Tilgungsdarlehen (Abzahlungsdarlehen):** Rückzahlung in gleichbleibenden Raten. Die Zinszahlungen sinken im Laufe der Zeit, da sie nur auf die Restschuld berechnet werden.

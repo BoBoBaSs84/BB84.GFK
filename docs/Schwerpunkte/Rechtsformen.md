@@ -1,6 +1,6 @@
 # Rechtsformen
 
-## Entscheidung über die Rechtsform – Zentrale Fragen
+## 1. Entscheidung über die Rechtsform – Zentrale Fragen
 
 Bei der Wahl der Rechtsform folgende zentrale Fragen zu stellen:
 
@@ -25,7 +25,7 @@ Bei der Wahl der Rechtsform folgende zentrale Fragen zu stellen:
 
 ---
 
-## Personengesellschaften – Unterschied zur GmbH
+## 2. Personengesellschaften – Unterschied zur GmbH
 
 Die wichtigsten Personengesellschaften im Handwerk sind GbR, OHG, KG und stille Gesellschaft.
 
@@ -48,9 +48,9 @@ Wesentliche Unterschiede zur GmbH auf einen Blick:
 | Geldentnahmen         | flexibler (Privatentnahmen möglich)                           | nur Gehalt und vereinbarte Tantiemen zulässig |
 | Rechtsform            | keine eigene Rechtspersönlichkeit (außer GbR ist rechtsfähig) | juristische Person des privaten Rechts        |
 
-## GmbH – Gründung, Haftung, Gewinnverteilung
+## 3. GmbH – Gründung, Haftung, Gewinnverteilung
 
-### Gründung
+### 3.1 Gründung
 
 Die GmbH muss notariell beurkundet und ins Handelsregister eingetragen werden. Die Gründung kann heute auch online per Videokommunikation mit dem Notar erfolgen – ein persönliches Erscheinen beim Notar ist nicht mehr zwingend erforderlich. Die GmbH entsteht als juristische Person erst mit der Eintragung ins Handelsregister. Außerdem müssen die wirtschaftlich Berechtigten im Transparenzregister eingetragen werden.
 
@@ -58,7 +58,7 @@ Die GmbH muss notariell beurkundet und ins Handelsregister eingetragen werden. D
 
 **Organe der GmbH:** Die Gesellschafterversammlung und der oder die Geschäftsführer. Bei einer Einmann-GmbH (ein Alleingesellschafter, der gleichzeitig Geschäftsführer ist) entscheidet dieser allein.
 
-### Haftung
+### 3.2 Haftung
 
 **Grundsatz:** Für Verbindlichkeiten haftet nur das GmbH-Vermögen. Ein Durchgriff auf das Privatvermögen der Gesellschafter oder Geschäftsführer ist nur in Ausnahmefällen möglich. Beispiel: Verursacht die Müller GmbH beim Kunden einen Schaden von 32.000 EUR, haftet nur die GmbH – nicht die Gesellschafterin Frau Müller persönlich. Ausnahme in der Praxis: Banken verlangen bei GmbH-Darlehen häufig persönliche Bürgschaften der Geschäftsführer.
 
@@ -66,7 +66,7 @@ Persönliche Haftung des Geschäftsführers entsteht bei Verstößen gegen Buchf
 
 **Insolvenz:** Stellt der Geschäftsführer eine Überschuldung fest, muss er innerhalb von sechs Wochen Insolvenzantrag stellen. Versäumt er dies, haftet er persönlich.
 
-### Gewinnverteilung
+### 3.3 Gewinnverteilung
 
 Es gibt zwei Möglichkeiten der Gewinnverwendung:
 
