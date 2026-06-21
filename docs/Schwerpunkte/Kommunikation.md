@@ -18,7 +18,12 @@ Kommunikation ist der Austausch von Informationen zwischen Sender und Empfänger
 
 ## 2. Interne Kommunikation & Mitarbeiterführung
 
-**Definition:** Mitarbeiterführung ist die psychologische und soziale Kompetenz einer Person im Umgang mit Menschen.
+---
+
+> [!IMPORTANT]
+> **Definition:** Mitarbeiterführung ist die psychologische und soziale Kompetenz einer Person im Umgang mit Menschen.
+
+---
 
 ### Voraussetzungen einer Führungskraft
 
@@ -28,7 +33,7 @@ Kommunikation ist der Austausch von Informationen zwischen Sender und Empfänger
 - Kontaktfähigkeit
 - Entscheidungskraft
 - Soziale Kompetenz
-- **Kommunikationsfähigkeit**
+- Kommunikationsfähigkeit
 - Fähigkeit zur Unterdrückung impulsiver Launen
 
 ### Arten von Weisungen
@@ -62,8 +67,9 @@ Das Hauptkriterium: **Grad der Einbeziehung der Mitarbeiter in den Entscheidungs
 
 ### Bewertung
 
-- Der **kooperative Führungsstil** wird als am besten geeignet bewertet, da er Eigenverantwortung und Motivation der Mitarbeiter stärkt.
-- Je nach Betriebsart, Situation und Aufgabe können Elemente verschiedener Führungsstile **kombiniert** werden.
+Der **kooperative Führungsstil** wird als am besten geeignet bewertet, da er Eigenverantwortung und Motivation der Mitarbeiter stärkt.
+
+Je nach Betriebsart, Situation und Aufgabe können Elemente verschiedener Führungsstile **kombiniert** werden.
 
 ## 4. Führungstechniken
 
@@ -182,7 +188,12 @@ Ein gutes Betriebsklima entsteht durch:
 
 ## 8. Externe Kommunikation & Kommunikationspolitik
 
-**Definition:** Die Kommunikationspolitik beinhaltet alle Entscheidungen und Handlungen zur Gestaltung und Übermittlung von Informationen an Kunden oder potenzielle Kunden.
+---
+
+> [!IMPORTANT]
+> **Definition:** Die Kommunikationspolitik beinhaltet alle Entscheidungen und Handlungen zur Gestaltung und Übermittlung von Informationen an Kunden oder potenzielle Kunden.
+
+---
 
 ### Drei Säulen der externen Kommunikation
 
