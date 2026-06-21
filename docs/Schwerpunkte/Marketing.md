@@ -109,9 +109,16 @@ Dazu kommen "weiche" Standortfaktoren wie persönliche, freizeitbezogene und kul
 
 ## 8. Unternehmensleitbild und Leitsätze (Unternehmenskultur)
 
-Unternehmenskultur ist die Gesamtheit von Traditionen, Werten, Regeln, Glaubenssätzen und Haltungen, die den Rahmen für alles bilden, was in einem Unternehmen gedacht oder getan wird. Sie beeinflusst das Unternehmensimage entscheidend.
+---
 
-Das Unternehmensleitbild ist eine schriftliche Beschreibung des unternehmerischen Selbstverständnisses, basierend auf strategischen Grundsätzen, Zielen, Wertvorstellungen und zentralen Verhaltensregeln. Es beantwortet: Wer bin ich (Mission)? Was will ich erreichen (Vision)? Wie will ich es erreichen (Werte)?
+> [!IMPORTANT]
+> **Merke:** Unternehmenskultur ist die Gesamtheit von Traditionen, Werten, Regeln, Glaubenssätzen und Haltungen, die den Rahmen für alles bilden, was in einem Unternehmen gedacht oder getan wird. Sie beeinflusst das Unternehmensimage entscheidend.
+
+---
+
+Das Unternehmensleitbild ist eine schriftliche Beschreibung des unternehmerischen Selbstverständnisses, basierend auf strategischen Grundsätzen, Zielen, Wertvorstellungen und zentralen Verhaltensregeln.
+
+Es beantwortet: Wer bin ich (**Mission**)? Was will ich erreichen (**Vision**)? Wie will ich es erreichen (**Werte**)?
 
 Die vier Gestaltungselemente der Unternehmenskultur sind:
 
@@ -146,13 +153,18 @@ Die Befragung gilt als die wichtigste Methode der Informationsbeschaffung im Mar
 - **Vorteile:** schnelle Umsetzung, geringe Kosten, Daten und Auswertungen zeitnah verfügbar.
 - **Nachteile:** geringe Repräsentativität, Abbruch leicht möglich, technische Voraussetzungen notwendig.
 
-In der Praxis ist oft eine telefonisch unterstützte Onlinebefragung der geeignetste Weg im Handwerk.
+---
+
+> [!TIP]
+> **Tipp:** In der Praxis ist oft eine telefonisch unterstützte Onlinebefragung der geeignetste Weg im Handwerk.
+
+---
 
 ## 10. Stärkung der Kundenorientierung
 
 Kundenorientierung ist die Ausrichtung aller marktrelevanten Maßnahmen an den Wünschen, Bedürfnissen und Problemen des Kunden. Sie ist eine zentrale Aufgabe der Betriebsführung.
 
-Wichtige Leitsätze der Kundenorientierung:
+**Wichtige Leitsätze der Kundenorientierung:**
 
 - Mit Kompetenz überzeugen
 - Mit Information, Beratung und Leistung Kunden binden
@@ -188,6 +200,26 @@ Daraus ergeben sich vier Strategien:
 2. **ST-Strategie:** Stärken einsetzen, um Risiken zu minimieren.
 3. **WO-Strategie:** Schwächen abbauen, um Chancen zu nutzen.
 4. **WT-Strategie:** Schwächen abbauen, um Risiken vorzubeugen.
+
+### Praxisbeispiel: „Bäckerei“
+
+**Ziel:** Positionierung im Markt und Ausbau der Kundenbindung gegenüber Großbäckereien und Supermärkten.
+
+| Bereich                                                                         | Beschreibung                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Strengths** (Stärken)<br/>(Intern: Was können wir besonders gut?)             | • Eigener Sauerteig und traditionelle, handwerkliche Backkunst<br/>• Hohe Qualität und regionale Bio-Zutaten<br/>• Stammkundschaft und hohes Vertrauen vor Ort                                    |
+| **Weaknesses** (Schwächen)<br/>(Intern: Wo gibt es Verbesserungsbedarf?)        | • Hohe Produktionskosten (Preise liegen über denen von Supermärkten)<br/>• Begrenzte Produktionskapazität und beengte Räumlichkeiten<br/>• Kaum Online-Präsenz oder digitale Bestellmöglichkeiten |
+| **Opportunities** (Chancen)<br/>(Extern: Welche Markttrends können wir nutzen?) | • Wachsende Nachfrage nach regionalen und klimafreundlichen Lebensmitteln<br/>• Trend zu Click & Collect (Online bestellen, vor Ort abholen)<br/>• Kooperationen mit lokalen Bio-Höfen            |
+| **Threats** (Risiken)<br/>(Extern: Was gefährdet unser Geschäft?)               | • Steigende Energiekosten und Rohstoffpreise<br/>• Preiskampf durch Discounter und Billig-Bio-Ketten<br/>• Fachkräftemangel im Bäckerhandwerk                                                     |
+
+### Ableitung der Strategien (Kombination der Faktoren)
+
+Aus dieser Matrix werden konkrete Maßnahmen abgeleitet:
+
+1. **Stärken-Chancen-Strategie:** Die hohe Qualität und regionale Herkunft nutzen, um die wachsende Nachfrage nach nachhaltigen Lebensmitteln zu bedienen (z.B. Marketing-Kampagne „Aus der Region – für die Region“).
+2. **Schwächen-Chancen-Strategie:** Die Einführung eines Click-&-Collect-Systems, um trotz begrenzter Ladenfläche effizienter zu verkaufen und neue, jüngere Zielgruppen anzusprechen.
+3. **Stärken-Risiken-Strategie:** Die eigenen Stärken (Qualität, Tradition) in den Vordergrund stellen, um Preiserhöhungen für den Kunden transparent und rechtfertigbar zu machen (Kundenbindung gegen Discounter).
+4. **Schwächen-Risiken-Strategie:** Effizienzsteigerung in der Backstube, um den steigenden Energie- und Rohstoffkosten entgegenzuwirken und den Margenverlust aufzufangen.
 
 ## 12. Ziele der Werbung und Werbemittel
 
