@@ -49,7 +49,16 @@ theme:
 markdown_extensions:
   - plantuml_markdown:
       server: https://www.plantuml.com/plantuml
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
   - search:
       lang: de
+  - redirects:
+      redirect_maps:
+        "index.md": "Prüfungsschwerpunkte.md"

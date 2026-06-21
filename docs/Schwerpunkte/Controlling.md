@@ -194,9 +194,9 @@ rectangle "Drei Szenarien entwickeln:\n- Positivszenario (Best Case)\n- Negativs
 rectangle "Einflussfaktoren analysieren:\n(Welche Faktoren und Einflussgrößen\nbeeinflussen die Szenarien in welcher\nArt und Weise?)" as STEP3
 rectangle "Maßnahmen erarbeiten\n- Welche Maßnahmen machen\nwelches Szenario wahrscheinlich?\n- Strategien für jedes Szenario entwickeln" as STEP4
 
-STEP1 -right-> STEP2
-STEP2 -right-> STEP3
-STEP3 -right-> STEP4
+STEP1 -down-> STEP2
+STEP2 -down-> STEP3
+STEP3 -down-> STEP4
 
 @enduml
 ```
