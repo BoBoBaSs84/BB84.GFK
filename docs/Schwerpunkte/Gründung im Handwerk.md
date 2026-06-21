@@ -12,7 +12,12 @@ Wer einen Betrieb gründen oder übernehmen will, muss drei Bereiche von Anforde
 
 ## 2. Versicherungsschutz für Selbstständige
 
-Mit dem Schritt in die Selbstständigkeit verlässt der Gründer das soziale Netz als Arbeitnehmer. Er muss nun selbst für Absicherung sorgen.
+---
+
+> [!IMPORTANT]
+> **Wichtig:** Mit dem Schritt in die Selbstständigkeit verlässt der Gründer das soziale Netz als Arbeitnehmer. Er muss nun selbst für Absicherung sorgen.
+
+---
 
 **Sozialversicherungszweige:** Krankenversicherung, Unfallversicherung, Rentenversicherung, Arbeitslosenversicherung, Pflegeversicherung.
 
@@ -32,7 +37,12 @@ Mit dem Schritt in die Selbstständigkeit verlässt der Gründer das soziale Net
 
 ## 3. Businessplan: Inhalt und Anforderungen
 
-Der Businessplan ist die zentrale Aufgabe bei der Vorbereitung einer Betriebsgründung. Von seiner Überzeugungskraft hängt ab, ob Geldgeber das erforderliche Kapital bereitstellen.
+---
+
+> [!IMPORTANT]
+> **Wichtig:** Der Businessplan ist die zentrale Aufgabe bei der Vorbereitung einer Betriebsgründung. Von seiner Überzeugungskraft hängt ab, ob Geldgeber das erforderliche Kapital bereitstellen.
+
+---
 
 Zielgruppen des Businessplans sind erstens der Gründer selbst zur realistischen Einschätzung seiner Chancen und Risiken, zweitens Berater von Handwerkskammern und Fachorganisationen sowie drittens Kreditinstitute und andere Geldgeber.
 
