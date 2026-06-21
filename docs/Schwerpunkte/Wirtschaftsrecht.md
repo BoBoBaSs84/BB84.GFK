@@ -1,6 +1,6 @@
 # Wirtschaftsrecht
 
-## Kaufmannseigenschaft & Handelsregister
+## 1. Kaufmannseigenschaft & Handelsregister
 
 ### 1.1 Grundlage: Handels- und Gesellschaftsrecht (HGB)
 
@@ -20,7 +20,7 @@ Das wichtigste Gesetz des Handelsrechts ist das **Handelsgesetzbuch (HGB)**. Es 
 
 ### 1.2 Die drei Arten von Kaufleuten (§§ 1–7 HGB)
 
-#### Istkaufmann
+#### 1.2.1 Istkaufmann
 
 - Inhaber eines Handwerksbetriebs wird **automatisch** zum Kaufmann, wenn der Betrieb **nach Art oder Umfang eine kaufmännische Einrichtung erfordert** (insbesondere kaufmännische Buchführung und Bilanzierung).
 - **Kaufmann auch ohne Eintragung** ins Handelsregister (Eintragungspflicht besteht dennoch).
@@ -37,7 +37,7 @@ Das wichtigste Gesetz des Handelsrechts ist das **Handelsgesetzbuch (HGB)**. Es 
 
 ---
 
-#### Kannkaufmann
+#### 1.2.2 Kannkaufmann
 
 - Betrieb **erfordert keine** kaufmännische Einrichtung (zu kleiner Betrieb).
 - Kann sich **freiwillig** ins Handelsregister eintragen lassen.
@@ -50,7 +50,7 @@ Das wichtigste Gesetz des Handelsrechts ist das **Handelsgesetzbuch (HGB)**. Es 
 
 ---
 
-#### Formkaufmann
+#### 1.2.3 Formkaufmann
 
 - Kaufmann **kraft Rechtsform** – unabhängig von Umsatz oder Mitarbeiterzahl.
 - Gilt für: **OHG, KG, GmbH & Co. KG, GmbH, UG (haftungsbeschränkt), AG**
@@ -63,7 +63,7 @@ Das wichtigste Gesetz des Handelsrechts ist das **Handelsgesetzbuch (HGB)**. Es 
 
 ---
 
-#### Übersichtstabelle: Die drei Kaufmannsarten
+#### 1.2.4 Übersichtstabelle: Die drei Kaufmannsarten
 
 | Merkmal                   | Istkaufmann             | Kannkaufmann           | Formkaufmann            |
 | ------------------------- | ----------------------- | ---------------------- | ----------------------- |
@@ -74,14 +74,14 @@ Das wichtigste Gesetz des Handelsrechts ist das **Handelsgesetzbuch (HGB)**. Es 
 
 ### 1.3 Rechte und Pflichten von Kaufleuten (HGB)
 
-#### Besondere Rechte:
+#### 1.3.1 Besondere Rechte:
 
 - **Firmenführungsberechtigung**: Kaufleute dürfen einen Firmennamen führen (Nicht-Kaufleute nur Vor- und Zuname).
 - **Firma kann beim Unternehmensverkauf fortgeführt werden.**
 - **Gerichtsstand** kann örtlich, sachlich und international vereinbart werden.
 - Kaufmann kann **unter seiner Firma klagen und verklagt werden**.
 
-#### Besondere Pflichten:
+#### 1.3.2 Besondere Pflichten:
 
 - **Kaufmännische Buchführungspflicht** (§ 238 HGB): Führung von Handelsbüchern, Inventar, Jahresabschluss (Bilanz + GuV).
 - **Aufbewahrungsfristen:**
@@ -108,13 +108,13 @@ Das wichtigste Gesetz des Handelsrechts ist das **Handelsgesetzbuch (HGB)**. Es 
 - **Firma** = der Name, unter dem ein Kaufmann seine Geschäfte betreibt und die Unterschrift abgibt.
 - **Freie Wahl** des Firmennamens (Personen-, Sach- oder Fantasiefirma), aber mit Grenzen.
 
-#### Kriterien bei der Firmenbildung:
+#### 1.4.1 Kriterien bei der Firmenbildung:
 
 1. **Unterscheidungskraft** (muss sich von anderen Firmen unterscheiden)
 2. **Ersichtlichkeit des Gesellschaftsverhältnisses**
 3. **Offenlegung des Haftungsverhältnisses** (Rechtsformzusatz Pflicht!)
 
-#### Pflicht-Rechtsformzusätze:
+#### 1.4.2 Pflicht-Rechtsformzusätze:
 
 | Rechtsform             | Pflichtbezeichnung                                                     |
 | ---------------------- | ---------------------------------------------------------------------- |
@@ -134,18 +134,18 @@ Das wichtigste Gesetz des Handelsrechts ist das **Handelsgesetzbuch (HGB)**. Es 
 
 ### 1.5 Das Handelsregister
 
-#### Zweck:
+#### 1.5.1 Zweck:
 
 Jedermann soll Auskunft erhalten, wer Kaufmann ist und wie seine wichtigsten Rechtsverhältnisse geregelt sind. → **Sicherheit und Vertrauen im Rechtsverkehr**.
 
-#### Geltungsbereich:
+#### 1.5.2 Geltungsbereich:
 
 - Alle Kaufleute (Ist-, Kann-, Formkaufleute) und ihre wesentlichen Rechtsverhältnisse.
 - Eintragungen erfolgen **auf Antrag**, elektronisch in öffentlich beglaubigter Form durch einen **Notar** (auch per Videokommunikation möglich).
 - Geführt beim **Amtsgericht (Registergericht)**.
 - Einsicht ist für **jedermann kostenlos**.
 
-#### Inhalt der Eintragung:
+#### 1.5.3 Inhalt der Eintragung:
 
 - Name, Vorname, Geburtsdatum
 - Aktuelle Geschäftsanschrift
@@ -153,14 +153,14 @@ Jedermann soll Auskunft erhalten, wer Kaufmann ist und wie seine wichtigsten Rec
 - Eventuelle Einlagen
 - Statusänderungen: Neugründung, Veräußerung, Löschungen
 
-#### Wirkungen der Eintragung:
+#### 1.5.4 Wirkungen der Eintragung:
 
 | Begriff                 | Bedeutung                                                                                                          |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **Positive Publizität** | Eingetragene und bekannt gemachte Tatsachen muss ein Dritter **gegen sich gelten lassen**.                         |
 | **Negative Publizität** | Noch nicht eingetragene oder bekannt gemachte Tatsachen braucht ein Dritter **nicht gegen sich gelten zu lassen**. |
 
-## Wettbewerbsrecht
+## 2. Wettbewerbsrecht
 
 ### 2.1 Überblick: Wichtige Gesetze
 
@@ -176,11 +176,11 @@ Jedermann soll Auskunft erhalten, wer Kaufmann ist und wie seine wichtigsten Rec
 
 ### 2.2 Gesetz gegen Wettbewerbsbeschränkungen (GWB)
 
-#### Ziel:
+#### 2.2.1 Ziel:
 
 Verhinderung von **Kartellen** – also abgesprochenen Verhaltensweisen zwischen Wettbewerbern zur Verfälschung des Wettbewerbs.
 
-#### Verboten:
+#### 2.2.2 Verboten:
 
 - **Preisabsprachen** zwischen Konkurrenten
 - **Marktaufteilung** unter Wettbewerbern
@@ -193,26 +193,26 @@ Verhinderung von **Kartellen** – also abgesprochenen Verhaltensweisen zwischen
 
 ---
 
-#### Erlaubt (Ausnahmen):
+#### 2.2.3 Erlaubt (Ausnahmen):
 
 - **Mittelstandskartelle** und **Strukturkrisenkartelle** unter bestimmten Bedingungen.
 - Kooperationen von Handwerksbetrieben beim **Einkauf, Verwaltung oder Produktion**, wenn der Wettbewerb nicht wesentlich beeinflusst wird.
 
-#### Kartellbehörden:
+#### 2.2.4 Kartellbehörden:
 
 - **Bundeskartellamt**
 - Bundesministerium für Wirtschaft und Klimaschutz
 - Kartellämter der Bundesländer
 - **Europäische Kommission** (bei EU-weiten Verstößen gegen den AEUV)
 
-#### Sanktionen bei Verstößen:
+#### 2.2.5 Sanktionen bei Verstößen:
 
 - Geldbuße bis zu **1 Mio. Euro**
 - Darüber hinaus bis zu **10 % des weltweiten Jahresumsatzes**
 
 ### 2.3 Gesetz gegen den unlauteren Wettbewerb (UWG)
 
-#### Ziel / Schutzbereich:
+#### 2.3.1 Ziel / Schutzbereich:
 
 Verhinderung **unfairer Werbemethoden**. Geschützt werden:
 
@@ -226,9 +226,9 @@ Verhinderung **unfairer Werbemethoden**. Geschützt werden:
 
 ---
 
-#### Die wichtigsten Verstöße gegen das UWG:
+#### 2.3.2 Die wichtigsten Verstöße gegen das UWG:
 
-##### 1. Irreführende Werbung (aktiv)
+##### 2.3.2.1 Irreführende Werbung (aktiv)
 
 Falsche oder täuschende Angaben über:
 
@@ -249,25 +249,25 @@ Falsche oder täuschende Angaben über:
 
 ---
 
-##### 2. Irreführende Werbung (passiv / durch Unterlassen)
+##### 2.3.2.2 Irreführende Werbung (passiv / durch Unterlassen)
 
 Wesentliche Informationen werden verschwiegen, z. B. Bedingungen für Preisnachlässe.
 
-##### 3. Aggressive Geschäftspraktiken
+##### 2.3.2.3 Aggressive Geschäftspraktiken
 
 Kunden werden in unangenehmer Weise zu Vertragsabschlüssen gedrängt (z. B. unerwünschte Anrufe, E-Mails ohne Einverständnis).
 
-##### 4. Belästigende Werbung
+##### 2.3.2.4 Belästigende Werbung
 
 Direktmarketing, das zu weit in den Bereich des Empfängers eingreift und unerwünscht ist.
 
-##### 5. Vergleichende Werbung (nur unter Bedingungen erlaubt)
+##### 2.3.2.5 Vergleichende Werbung (nur unter Bedingungen erlaubt)
 
 - Erlaubt: **sachlicher, nicht betriebsbezogener** Vergleich.
 - Verboten: Grundlose **Herabsetzung** des Konkurrenten.
 - Auch **indirekte** Vergleiche sind erfasst (Konkurrent muss nicht namentlich genannt werden).
 
-##### 6. Vorsprung durch Rechtsbruch
+##### 2.3.2.6 Vorsprung durch Rechtsbruch
 
 Jeder Verstoß gegen andere Gesetze (z. B. Handwerksordnung, Preisangabenverordnung, DSGVO, StGB) ist **gleichzeitig ein UWG-Verstoß**.
 
@@ -278,14 +278,14 @@ Jeder Verstoß gegen andere Gesetze (z. B. Handwerksordnung, Preisangabenverordn
 
 ---
 
-#### Wer kann abmahnen?
+#### 2.3.3 Wer kann abmahnen?
 
 - **Mitbewerber (Konkurrenten)**
 - **Verbraucherverbände**
 - **Wettbewerbsschutz-Vereinigungen**
 - Industrie- und Handelskammern (Einigungsstellen)
 
-#### Ablauf bei einem UWG-Verstoß:
+#### 2.3.4 Ablauf bei einem UWG-Verstoß:
 
 ```
 Unlautere geschäftliche Handlung

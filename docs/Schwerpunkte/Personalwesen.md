@@ -41,7 +41,7 @@ Hier sind aktuelle und zukünftige Arbeitsanforderungen zu definieren und das er
 
 ---
 
-### 3. Stellenanzeige (Inhalt, Anforderungen)
+## 3. Stellenanzeige (Inhalt, Anforderungen)
 
 Eine Stellenanzeige enthält in der Regel folgende Inhalte:
 
@@ -67,7 +67,7 @@ Grundsätze bei der Ausschreibung:
 - Geschlechtsneutrale Ausschreibung
 - Keine Benachteiligung wegen Geschlecht, ethnischer Herkunft, Religion, Behinderung, Alter oder sexueller Identität
 
-### 4. Bewerbungsunterlagen
+## 4. Bewerbungsunterlagen
 
 Die wichtigsten Bewerbungsunterlagen zur Beurteilung von Stellenbewerbern:
 
@@ -79,16 +79,17 @@ Die wichtigsten Bewerbungsunterlagen zur Beurteilung von Stellenbewerbern:
 6. Beurteilungen (von früheren Arbeitgebern)
 
 **Eignungs- und Anforderungsprofile beinhalten u. a.:**
-fachliche Qualifikation
-Einsatzbereitschaft
-Belastbarkeit
-Organisationstalent
-Zuverlässigkeit
-Fähigkeit zum selbstständigen Arbeiten
-Teamfähigkeit
-Kundenorientierung
-äußeres Erscheinungsbild
-Kontaktfreudigkeit
+
+- fachliche Qualifikation
+- Einsatzbereitschaft
+- Belastbarkeit
+- Organisationstalent
+- Zuverlässigkeit
+- Fähigkeit zum selbstständigen Arbeiten
+- Teamfähigkeit
+- Kundenorientierung
+- äußeres Erscheinungsbild
+- Kontaktfreudigkeit
 
 ---
 
@@ -97,7 +98,7 @@ Kontaktfreudigkeit
 
 ---
 
-### 5. Vorstellungsgespräch
+## 5. Vorstellungsgespräch
 
 Der Erkenntnisgewinn ist im persönlichen Gespräch höher als im virtuellen oder telefonischen Gespräch. Erstgespräche finden häufig virtuell oder telefonisch statt.
 
@@ -110,7 +111,7 @@ Der Erkenntnisgewinn ist im persönlichen Gespräch höher als im virtuellen ode
 5. Absprachen zum Arbeitsverhältnis: Vergütung, Arbeitszeit und -ort, Fortbildung, Nebentätigkeiten
 6. Gesprächsabschluss: kurze Zusammenfassung, weitere Vorgehensweise, Dank und Verabschiedung
 
-### 6. Entscheidungshilfen für Auswahl von Mitarbeitern
+## 6. Entscheidungshilfen für Auswahl von Mitarbeitern
 
 Neben den Bewerbungsunterlagen können folgende Entscheidungshilfen eingesetzt werden:
 
@@ -123,9 +124,9 @@ Neben den Bewerbungsunterlagen können folgende Entscheidungshilfen eingesetzt w
 - Assessment-Center (Rollen- und Planspiele, Gruppendiskussionen)
 - Nachfrage bei angegebenen Referenzen
 
-### 7. Arbeitszeugnisse (Inhalt und Formulierung)
+## 7. Arbeitszeugnisse (Inhalt und Formulierung)
 
-#### Arten des Arbeitszeugnisses
+### 7.1 Arten des Arbeitszeugnisses
 
 | Einfaches Zeugnis               | Qualifiziertes Zeugnis               |
 | ------------------------------- | ------------------------------------ |
@@ -136,7 +137,7 @@ Neben den Bewerbungsunterlagen können folgende Entscheidungshilfen eingesetzt w
 
 Der Arbeitnehmer hat beim qualifizierten Zeugnis Anspruch auf eine wohlwollende, aber den Tatsachen entsprechende Beurteilung.
 
-#### Formulierungen zur Leistung (Zeugnissprache)
+### 7.2 Formulierungen zur Leistung (Zeugnissprache)
 
 | Formulierung                                | Bedeutung        |
 | ------------------------------------------- | ---------------- |
@@ -147,7 +148,7 @@ Der Arbeitnehmer hat beim qualifizierten Zeugnis Anspruch auf eine wohlwollende,
 | „insgesamt zu unserer Zufriedenheit"        | mangelhaft       |
 | „hat sich bemüht, die Aufgaben zu erfüllen" | unzureichend     |
 
-#### Formulierungen zum Verhalten
+### 7.3 Formulierungen zum Verhalten
 
 | Formulierung                          | Bedeutung             |
 | ------------------------------------- | --------------------- |
@@ -156,11 +157,13 @@ Der Arbeitnehmer hat beim qualifizierten Zeugnis Anspruch auf eine wohlwollende,
 | „gut"                                 | durchschnittlich      |
 | „gab zu Beanstandungen keinen Anlass" | unterdurchschnittlich |
 
-### 8. Lohnformen (Vorteile/Nachteile)
+## 8. Lohnformen (Vorteile/Nachteile)
 
 Anforderungen an ein Lohnsystem: Markt- und personenbezogene Lohngerechtigkeit, Förderung der Leistungsbereitschaft, Funktionsdifferenzierung.
 
-a) **Zeitlohn** – Entlohnung nach Dauer der Arbeitszeit, unabhängig von der Leistungsmenge
+### 8.1 Zeitlohn
+
+Entlohnung nach Dauer der Arbeitszeit, unabhängig von der Leistungsmenge
 
 | Vorteile                      | Nachteile                                         |
 | ----------------------------- | ------------------------------------------------- |
@@ -170,7 +173,9 @@ a) **Zeitlohn** – Entlohnung nach Dauer der Arbeitszeit, unabhängig von der L
 | Geringerer Leistungsdruck     | Enge Führung der Arbeitskräfte nötig              |
 | Weniger Arbeitsunfälle        | Keine Berücksichtigung von Leistungsunterschieden |
 
-b) **Leistungslohn (Akkordlohn)** – Entlohnung nach Arbeitsmenge (Stückgeldakkord) oder Vorgabezeit (Stückzeitakkord)
+### 8.2 Leistungslohn (Akkordlohn)
+
+Entlohnung nach Arbeitsmenge (Stückgeldakkord) oder Vorgabezeit (Stückzeitakkord)
 
 | Vorteile                    | Nachteile                      |
 | --------------------------- | ------------------------------ |
@@ -180,14 +185,15 @@ b) **Leistungslohn (Akkordlohn)** – Entlohnung nach Arbeitsmenge (Stückgeldak
 | Geringerer Führungsaufwand  | —                              |
 | MA optimiert Arbeitsabläufe | —                              |
 
-c) **Prämienlohn** – Mittelstellung: Zeitlohn + Prämie für quantitative (Mengenprämie) oder qualitative (Qualitätsprämie) Mehrleistungen
+### 8.3 Prämienlohn
+
+Mittelstellung: Zeitlohn + Prämie für quantitative (Mengenprämie) oder qualitative (Qualitätsprämie) Mehrleistungen
 
 Beispiele: Erfolgsbeteiligung (v. a. Führungskräfte), Meister-/Vorarbeiterprämie, Teamprämie.
 
 ### 9. betriebl. Altersversorgung (bAV)
 
-Der Arbeitgeber sagt dem Arbeitnehmer Versorgungsleistungen bei Alter, Invalidität und/oder Tod zu.
-Arbeitnehmer in der gesetzlichen Rentenversicherung haben einen Rechtsanspruch auf Entgeltumwandlung (bis zu 8 % der Beitragsbemessungsgrenze steuerfrei, bis zu 4 % sozialversicherungsfrei pro Jahr).
+Der Arbeitgeber sagt dem Arbeitnehmer Versorgungsleistungen bei Alter, Invalidität und/oder Tod zu. Arbeitnehmer in der gesetzlichen Rentenversicherung haben einen Rechtsanspruch auf Entgeltumwandlung (bis zu 8 % der Beitragsbemessungsgrenze steuerfrei, bis zu 4 % sozialversicherungsfrei pro Jahr).
 
 **Durchführungswege der bAV:**
 

@@ -25,7 +25,7 @@ Kommunikation ist der Austausch von Informationen zwischen Sender und Empfänger
 
 ---
 
-### Voraussetzungen einer Führungskraft
+### 2.1 Voraussetzungen einer Führungskraft
 
 - Selbstdisziplin
 - Autorität als Person
@@ -36,7 +36,7 @@ Kommunikation ist der Austausch von Informationen zwischen Sender und Empfänger
 - Kommunikationsfähigkeit
 - Fähigkeit zur Unterdrückung impulsiver Launen
 
-### Arten von Weisungen
+### 2.2 Arten von Weisungen
 
 | Weisung       | Merkmale                                                                                     |
 | ------------- | -------------------------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ Kommunikation ist der Austausch von Informationen zwischen Sender und Empfänger
 
 Das Hauptkriterium: **Grad der Einbeziehung der Mitarbeiter in den Entscheidungsprozess.**
 
-### Überblick der drei Führungsstile
+### 3.1 Überblick der drei Führungsstile
 
 | Merkmal                | Autoritär                         | Kooperativ / Partnerschaftlich   | Laissez-faire                   |
 | ---------------------- | --------------------------------- | -------------------------------- | ------------------------------- |
@@ -65,7 +65,7 @@ Das Hauptkriterium: **Grad der Einbeziehung der Mitarbeiter in den Entscheidungs
 | Mitarbeiterbeteiligung | Keine                             | Hoch                             | Vollständig                     |
 | Informationsfluss      | Top-down                          | Gegenseitig                      | Nur auf Verlangen               |
 
-### Bewertung
+### 3.2 Bewertung
 
 Der **kooperative Führungsstil** wird als am besten geeignet bewertet, da er Eigenverantwortung und Motivation der Mitarbeiter stärkt.
 
@@ -85,7 +85,7 @@ Führungstechniken sind umfassende Konzepte, die den Rahmen für Führungstätig
 
 Das Mitarbeitergespräch ist ein **zentrales Führungsinstrument**.
 
-### Arten von Mitarbeitergesprächen
+### 5.1 Arten von Mitarbeitergesprächen
 
 - **Motivationsgespräch** – Leistungsbereitschaft fördern
 - **Zielvereinbarungsgespräch** – Ziele gemeinsam festlegen (→ MbO)
@@ -93,7 +93,7 @@ Das Mitarbeitergespräch ist ein **zentrales Führungsinstrument**.
 - **Konfliktgespräch** – Zwischenmenschliche Schwierigkeiten lösen
 - **Feedbackgespräch** – Rückmeldung zu Leistung und Verhalten
 
-### Grundregeln für ein gutes Gespräch
+### 5.2 Grundregeln für ein gutes Gespräch
 
 - Richtigen **Zeitpunkt** wählen
 - Angemessene **räumliche Umgebung** (nicht „zwischen Tür und Angel")
@@ -113,7 +113,7 @@ Das Mitarbeitergespräch ist ein **zentrales Führungsinstrument**.
 
 Die Motivation der Mitarbeiter bestimmt in hohem Maße den Erfolg des Handwerksbetriebes.
 
-### Wichtige Motivationsfaktoren
+### 6.1 Wichtige Motivationsfaktoren
 
 - Eindeutige Aufgabenstellungen (Arbeitsinhalt)
 - Gestaltungsmöglichkeiten (inhaltlich, fachlich)
@@ -130,7 +130,7 @@ Die Motivation der Mitarbeiter bestimmt in hohem Maße den Erfolg des Handwerksb
 
 ---
 
-### Mitarbeiterbefragung
+### 6.2 Mitarbeiterbefragung
 
 Ein weiteres Instrument zur Stärkung der betrieblichen Kommunikation. Sie wird **anonym** durchgeführt.
 
@@ -143,7 +143,7 @@ Ein weiteres Instrument zur Stärkung der betrieblichen Kommunikation. Sie wird 
 
 ## 7. Konfliktlösung & Betriebsklima
 
-### Maßnahmen zur Konfliktlösung
+### 7.1 Maßnahmen zur Konfliktlösung
 
 **Die Aussprache** ist die wichtigste Methode zur Beseitigung zwischenmenschlicher Schwierigkeiten.
 
@@ -154,7 +154,7 @@ Regeln für eine erfolgreiche Aussprache:
 - Bereitschaft zum Zuhören zeigen
 - Freundliches, sachliches Auftreten
 
-### Die 5-Stufen-Methode
+### 7.2 Die 5-Stufen-Methode
 
 | Stufe | Inhalt                                      |
 | ----- | ------------------------------------------- |
@@ -164,11 +164,11 @@ Regeln für eine erfolgreiche Aussprache:
 | 4     | Umsetzung der Maßnahmen                     |
 | 5     | Beobachtung und Kontrolle der Ergebnisse    |
 
-### Teamprinzip
+### 7.3 Teamprinzip
 
 Die Überzeugungskraft des Vorgesetzten ist am größten, wenn er ein Team schafft, in dem sich jeder wohlfühlt. Das Teamprinzip eignet sich hervorragend zur Pflege zwischenmenschlicher Beziehungen.
 
-### Betriebsklima
+### 7.4 Betriebsklima
 
 Ein gutes Betriebsklima entsteht durch:
 
@@ -195,7 +195,7 @@ Ein gutes Betriebsklima entsteht durch:
 
 ---
 
-### Drei Säulen der externen Kommunikation
+### 8.1 Drei Säulen der externen Kommunikation
 
 | Bereich                        | Ziel                               | Beispiele                                           |
 | ------------------------------ | ---------------------------------- | --------------------------------------------------- |
@@ -203,7 +203,7 @@ Ein gutes Betriebsklima entsteht durch:
 | **Verkaufsförderung**          | Kurzfristige Umsatzsteigerung      | Rabattaktionen, Messen, Sonderangebote              |
 | **Öffentlichkeitsarbeit (PR)** | Image aufbauen, Vertrauen schaffen | Pressemitteilungen, Tag der offenen Tür, Newsletter |
 
-### Werbeziele
+### 8.2 Werbeziele
 
 - Einführung neuer Produkte und Dienstleistungen
 - Erhaltung und Sicherung des Absatzes
@@ -213,14 +213,14 @@ Ein gutes Betriebsklima entsteht durch:
 
 ## 9. Kommunikationsmittel & -wege
 
-### Schriftliche Kommunikation
+### 9.1 Schriftliche Kommunikation
 
 - **Geschäftsbrief:** Visitenkarte des Unternehmens; wesentliche Sachverhalte schriftlich festhalten
   - Grundsätze: kurze und klare Formulierungen, neue Absätze bei neuen Sachverhalten, keine Rechtschreibfehler
 - **E-Mail:** Effektives Medium der Kunden- und Interessentenansprache; direkter Dialog möglich
 - **Werbebrief / Direktmarketing:** Persönlich adressiert, individuell gestaltet
 
-### Digitale & elektronische Kommunikation
+### 9.2 Digitale & elektronische Kommunikation
 
 | Mittel                     | Besonderheit                                          |
 | -------------------------- | ----------------------------------------------------- |
@@ -230,7 +230,7 @@ Ein gutes Betriebsklima entsteht durch:
 | Homepage / Onlineshop      | Erweiterung des Geschäftsgebiets                      |
 | Bewertungsportale          | Wichtiges Kriterium für Kundenauswahl                 |
 
-### Öffentlichkeitsarbeit – Instrumente
+### 9.3 Öffentlichkeitsarbeit – Instrumente
 
 - Kontaktpflege zu Medien (Presse, Rundfunk)
 - Pressekonferenzen, PR-Berichte, Geschäftsberichte
@@ -246,14 +246,11 @@ Ein gutes Betriebsklima entsteht durch:
 
 ---
 
-## 10. Merksätze & Prüfungstipps
-
-### Wichtige Merksätze
+## 10. Merksätze
 
 ---
 
 > [!TIP]
-> **Wichtige Merksätze**
 >
 > - „Wer nicht wirbt, der stirbt." – Werbung ist für jeden Handwerksbetrieb unverzichtbar.
 > - „Fehlerkritik sollte stets sachlich sein und den Fehler kritisieren, nicht den Menschen."
