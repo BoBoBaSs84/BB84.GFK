@@ -51,6 +51,9 @@ markdown_extensions:
       server: https://www.plantuml.com/plantuml
   - pymdownx.arithmatex:
       generic: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -62,3 +65,4 @@ plugins:
   - redirects:
       redirect_maps:
         "index.md": "Prüfungsschwerpunkte.md"
+  - callouts
