@@ -2,13 +2,44 @@
 
 ## 1. Unternehmensziele
 
-Ziele sind durch menschliches Handeln angestrebte zukünftige Zustände. Sie sind ein Maßstab, der es ermöglicht, Arbeitsergebnisse zu bewerten und geben die Richtung vor, in die sich ein Unternehmen entwickeln soll.
+---
+
+> [!IMPORTANT]
+> **Wichtig:** Ziele sind durch menschliches Handeln angestrebte zukünftige Zustände. Sie sind ein Maßstab, der es ermöglicht, Arbeitsergebnisse zu bewerten und geben die Richtung vor, in die sich ein Unternehmen entwickeln soll.
+
+---
+
+```plantuml
+@startmindmap
+* Unternehmensziele
+** Zielkategorien nach Inhalt
+*** Absatz
+*** Umsatz
+*** Gewinn
+*** Rentabilität
+*** Bekanntheitsgrad
+*** Image
+*** Kundenbindung
+** Zeitliche Dimension
+*** Kurzfristig
+*** Mittelfristig
+*** Langfristig
+** Zielbeziehungen
+*** Komplementär
+**** Ziele ergänzen sich gegenseitig
+*** Neutral
+**** Ziele beeinflussen sich nicht
+*** Konträr
+**** Ziele stehen in Konflikt
+**** Zielsystem erforderlich
+@endmindmap
+```
 
 **Wichtige Zielkategorien nach Inhalt:** Absatz, Umsatz, Gewinn, Rentabilität, Bekanntheitsgrad, Image, Kundenbindung.
 
 Nach der zeitlichen Dimension unterscheidet man kurzfristige, mittelfristige und langfristige Ziele.
 
-**Zielbeziehungen:** Ziele können sich gegenseitig ergänzen (komplementär), neutral sein oder in Konflikt stehen. Deshalb ist ein Zielsystem notwendig, das die Beziehungen der einzelnen Ziele schriftlich dokumentiert.
+**Zielbeziehungen:** Ziele können sich gegenseitig ergänzen (_komplementär_), neutral sein oder in Konflikt stehen (_konträr_). Deshalb ist ein Zielsystem notwendig, das die Beziehungen der einzelnen Ziele schriftlich dokumentiert.
 
 **Beispiel eines Zielsystems:** Einkommensquelle sichern → Gewinn erhöhen / Fortbestand sichern → Umsatz erhöhen → Kundenbindung / Neukunden gewinnen → Qualität verbessern / Service erhöhen / Marketing intensivieren.
 
@@ -160,12 +191,19 @@ Daraus ergeben sich vier Strategien:
 
 ## 12. Ziele der Werbung und Werbemittel
 
-Ziele der Werbung: Absatzsicherung, Absatzsteigerung, Produkteinführung, Marktanteilserweiterung, Bedarfsdeckung, Steuerung des Bekanntheitsgrades des Betriebes, Zielgruppenansprache.
+---
+
+> [!IMPORTANT]
+> **Ziele der Werbung:** Absatzsicherung, Absatzsteigerung, Produkteinführung, Marktanteilserweiterung, Bedarfsdeckung, Steuerung des Bekanntheitsgrades des Betriebes, Zielgruppenansprache.
+
+---
 
 ### Arten der Werbung
 
 **Nach Adressat:** direkte Werbung (persönliche Ansprache des Endverbrauchers) und indirekte Werbung (verkaufsfördernde Maßnahmen gegenüber Händlern).
+
 **Nach Träger:** Einzelwerbung, Gemeinschaftswerbung, Verbundwerbung (mehrere Unternehmen verschiedener Wirtschaftsstufen), Sammelwerbung (z.B. alle Handwerker in einem Wohngebiet).
+
 **Nach Objekt:** Produktwerbung (stellt ein bestimmtes Produkt in den Vordergrund) und Unternehmenswerbung (bezieht sich auf den Betrieb und seine Leistungsfähigkeit).
 
 **Wichtige Werbemittel:**
@@ -183,13 +221,18 @@ Ziele der Werbung: Absatzsicherung, Absatzsteigerung, Produkteinführung, Markta
 - lokale Rundfunk- und Fernsehsender
 - Newsletter
 
-Anforderungen an Werbung: Grundsätze von Wahrheit und Klarheit einhalten, rechtliche Aspekte beachten (UWG, DSGVO, Datenschutzhinweise, Impressumspflicht).
+---
+
+> [!IMPORTANT]
+> **Anforderungen an Werbung:** Grundsätze von Wahrheit und Klarheit einhalten, rechtliche Aspekte beachten (UWG, DSGVO, Datenschutzhinweise, Impressumspflicht).
+
+---
 
 ## 13. Marketinginstrumente (Marketing-Mix)
 
 Die vier Marketinginstrumente (die "4 P") werden nicht isoliert, sondern kombiniert als Marketing-Mix eingesetzt:
 
-1. **Produkt- und Sortimentspolitik:** Aufgabe ist es, ein an den Bedürfnissen der Nachfrage orientiertes Angebot zu erstellen. Das Leistungsprogramm umfasst Haupt- und Nebenleistungen sowie Kundendienstleistungen (Reparatur, Ersatzteilversorgung, Finanzierungsvermittlung, Lieferservice). Das Produkt- und Leistungsprogramm ist immer aktuell den Marktbedingungen anzupassen.
-2. **Preis- und Konditionenpolitik:** Bestimmungsfaktoren sind Kostenrechnung/Kalkulation, Nachfrage und Wettbewerbssituation. In der Einführungsphase sollte ein vernünftiger Kompromiss zwischen kostenorientierter, nachfrageorientierter und wettbewerbsorientierter Preisbildung gefunden werden.
-3. **Kommunikations- und Werbepolitik:** Umfasst alle Entscheidungen zur Gestaltung und Übermittlung von Informationen an Kunden oder potenzielle Kunden. Beinhaltet Werbung, Verkaufsförderung (Salespromotion) und Öffentlichkeitsarbeit (Public Relations). Öffentlichkeitsarbeit dient nicht der unmittelbaren Umsatzsteigerung, sondern dem Aufbau eines positiven Images.
-4. **Vertriebspolitik:** Entscheidung über direkten Vertrieb, indirekten Vertrieb oder Onlinevertrieb. Besondere Vertriebsform ist das Franchising (einheitliches Marketingkonzept, Vertrag zwischen Franchisegeber und Franchisenehmer). Zu einer erfolgreichen Vertriebsorganisation gehört geschultes Personal für die Fachberatung.
+1. **Produkt- und Sortimentspolitik (Product):** Aufgabe ist es, ein an den Bedürfnissen der Nachfrage orientiertes Angebot zu erstellen. Das Leistungsprogramm umfasst Haupt- und Nebenleistungen sowie Kundendienstleistungen (Reparatur, Ersatzteilversorgung, Finanzierungsvermittlung, Lieferservice). Das Produkt- und Leistungsprogramm ist immer aktuell den Marktbedingungen anzupassen.
+2. **Preis- und Konditionenpolitik (Price):** Bestimmungsfaktoren sind Kostenrechnung/Kalkulation, Nachfrage und Wettbewerbssituation. In der Einführungsphase sollte ein vernünftiger Kompromiss zwischen kostenorientierter, nachfrageorientierter und wettbewerbsorientierter Preisbildung gefunden werden.
+3. **Kommunikations- und Werbepolitik (Promotion):** Umfasst alle Entscheidungen zur Gestaltung und Übermittlung von Informationen an Kunden oder potenzielle Kunden. Beinhaltet Werbung, Verkaufsförderung (Salespromotion) und Öffentlichkeitsarbeit (Public Relations). Öffentlichkeitsarbeit dient nicht der unmittelbaren Umsatzsteigerung, sondern dem Aufbau eines positiven Images.
+4. **Vertriebspolitik (Place):** Entscheidung über direkten Vertrieb, indirekten Vertrieb oder Onlinevertrieb. Besondere Vertriebsform ist das Franchising (einheitliches Marketingkonzept, Vertrag zwischen Franchisegeber und Franchisenehmer). Zu einer erfolgreichen Vertriebsorganisation gehört geschultes Personal für die Fachberatung.
