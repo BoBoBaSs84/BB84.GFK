@@ -7,7 +7,7 @@ Kommunikation leitet sich vom lateinischen „communicare" ab und bedeutet „et
 ---
 
 > [!IMPORTANT]
-> Merksatz nach Paul Watzlawick: „Man kann nicht nicht kommunizieren."
+> **Merksatz nach Paul Watzlawick:** „Man kann nicht nicht kommunizieren."
 
 ---
 
@@ -65,7 +65,7 @@ Jede Nachricht kann auf vier Ebenen betrachtet werden:
 ---
 
 > [!IMPORTANT]
-> Gesprächstechniken sind **Vorgehensweisen und Methoden**, mit deren Anwendung ein Kundengespräch positiv gesteuert werden kann.
+> **Merke:** Gesprächstechniken sind **Vorgehensweisen und Methoden**, mit deren Anwendung ein Kundengespräch positiv gesteuert werden kann.
 
 ---
 
@@ -143,7 +143,7 @@ Die Nachbereitung sollte **unmittelbar nach dem Gespräch** erfolgen. Ziele:
 ---
 
 > [!TIP]
-> Tipp: CRM-Softwarelösungen (Customer-Relationship-Management) unterstützen die Dokumentation und Pflege von Kundendaten.
+> **Tipp:** CRM-Softwarelösungen (Customer-Relationship-Management) unterstützen die Dokumentation und Pflege von Kundendaten.
 
 ---
 
@@ -170,7 +170,7 @@ Die Nachbereitung sollte **unmittelbar nach dem Gespräch** erfolgen. Ziele:
 ---
 
 > [!IMPORTANT]
-> Konflikte entstehen dann, wenn man sich zwischen einander widersprechenden Motiven, Einstellungen und Interessen entscheiden muss.
+> **Merke:** Konflikte entstehen dann, wenn man sich zwischen einander widersprechenden Motiven, Einstellungen und Interessen entscheiden muss.
 
 ---
 
@@ -232,7 +232,7 @@ Eine strukturierte Methode zur Lösung von Problemen und Kundenbeschwerden:
 
 ---
 
-> [IMPORTANT]
+> [!IMPORTANT]
 > **Wichtig:** Konfliktebenen sind häufig miteinander verknüpft. Je intensiver die Verknüpfung, desto schwieriger die Konfliktbewältigung.
 
 ---
