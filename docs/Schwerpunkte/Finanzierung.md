@@ -27,21 +27,21 @@ Für das Finanzierungsgespräch und für Anträge auf öffentliche Finanzierungs
 
 **Die Bank prüft die Kreditwürdigkeit in zwei Dimensionen:**
 
-1. **Persönliche Kreditwürdigkeit:**
-   - Fachliche Kenntnisse
-   - Überzeugungskraft
-   - betriebswirtschaftliche Kenntnisse
-   - Zuverlässigkeit
-   - persönliches Ansehen
-   - familiäre Verhältnisse
+- **1. Persönliche Kreditwürdigkeit:**
+  - Fachliche Kenntnisse
+  - Überzeugungskraft
+  - betriebswirtschaftliche Kenntnisse
+  - Zuverlässigkeit
+  - persönliches Ansehen
+  - familiäre Verhältnisse
 
-2. **Wirtschaftliche Kreditwürdigkeit:**
-   - Geordnete betriebliche Verhältnisse
-   - überzeugendes Unternehmenskonzept
-   - Ertragslage
-   - Branche
-   - Marktstellung
-   - Angemessenheit des Vorhabens
+- **2. Wirtschaftliche Kreditwürdigkeit:**
+  - Geordnete betriebliche Verhältnisse
+  - überzeugendes Unternehmenskonzept
+  - Ertragslage
+  - Branche
+  - Marktstellung
+  - Angemessenheit des Vorhabens
 
 ---
 
@@ -90,7 +90,7 @@ Lebensunterhalt
 - Personensteuern
 - Sonstiges (z. B. Zinsen und Tilgung für private Darlehen)
 
-$$= Privatausgaben(= Privatentnahmen)$$
+$$=\text{Privatausgaben}(=\text{Privatentnahmen})$$
 
 ---
 
@@ -107,7 +107,7 @@ Privatentnahmen
 - Zinsen
 - Rücklage für Investitionen
 
-$$= Notwendiger erweiterter Cashflow$$
+$$=\text{Notwendiger erweiterter Cashflow}$$
 
 ### 2.3 Kostenplan aufstellen
 
@@ -117,12 +117,12 @@ a) Personalkosten (für Gesellen/Angestellte):
 - Weihnachtsgeld, Urlaubsgeld, sonstige Sonderzahlungen
 - Vermögenswirksame Leistungen
 
-$$= Jahresbruttolohn$$
+$$=\text{Jahresbruttolohn}$$
 
 - Arbeitgeberanteil zur gesetzlichen Sozialversicherung, Beitrag zur Berufsgenossenschaft, Umlagen
 - Tarifliche und freiwillige Sozialleistungen
 
-$$= Personalkosten$$
+$$=\text{Personalkosten}$$
 
 b) Betriebliche Sachkosten:
 
@@ -140,7 +140,7 @@ b) Betriebliche Sachkosten:
 - Beiträge
 - sonstige Kosten
 
-$$= Summe der Sachkosten$$
+$$=\text{Summe der Sachkosten}$$
 
 ### 2.4 Wertschöpfung berechnen
 
@@ -149,13 +149,13 @@ Notwendiger erweiterter Cashflow
 - Personalkosten
 - Betriebliche Sachkosten
 
-$$= Wertschöpfung$$
+$$=\text{Wertschöpfung}$$
 
 ### 2.5 Notwendiger Mindestumsatz
 
 Wertschöpfung
 
-$$Materialverbrauch / Wareneinsatz = Notwendiger Mindestumsatz$$
+$$\frac{\text{Materialverbrauch}}{\text{Wareneinsatz}}=\text{Notwendiger Mindestumsatz}$$
 
 ---
 

@@ -308,7 +308,7 @@ Die **Gewinnschwelle (Break-even-Point)** ist die Absatzmenge, bei der:
 
 $$\text{Gewinnschwelle (Menge)} = \frac{\text{Fixkosten}}{\text{Stückdeckungsbeitrag}}$$
 
-$$\text{Stückdeckungsbeitrag} = \text{Verkaufspreis/Stück} - \text{variable Kosten/Stück}$$
+$$\text{Stückdeckungsbeitrag} = \frac{\text{Verkaufspreis}}{\text{Stück}}-\frac{\text{variable Kosten}}{\text{Stück}}$$
 
 **Rechenbeispiel:**
 
@@ -459,7 +459,7 @@ $$\text{Lagerdauer} = \frac{\text{Materialbestand} \times 360}{\text{Materialauf
 
 ---
 
-## 📝 Schnellübersicht: Wichtige Formeln auf einen Blick
+## 6. Schnellübersicht - Wichtige Formeln auf einen Blick
 
 | Formel                          | Berechnung                                                            |
 | ------------------------------- | --------------------------------------------------------------------- |
