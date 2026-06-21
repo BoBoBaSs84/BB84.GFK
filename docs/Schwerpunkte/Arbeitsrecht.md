@@ -2,7 +2,12 @@
 
 ## 1. Arten des Arbeitsvertrag
 
-Der Arbeitsvertrag entsteht durch zwei übereinstimmende Willenserklärungen von Arbeitgeber und Arbeitnehmer.
+---
+
+> [!IMPORTANT]
+> **Merke:** Der Arbeitsvertrag entsteht durch zwei übereinstimmende Willenserklärungen von Arbeitgeber und Arbeitnehmer.
+
+---
 
 **Unbefristeter Arbeitsvertrag** (auf unbestimmte Zeit)
 
@@ -29,8 +34,16 @@ Bei Arbeitnehmern ab 52 Jahren, die zuvor mind. 4 Monate arbeitslos waren: Befri
 - **Brückenteilzeit (befristete Teilzeit):** Möglich in Betrieben mit mehr als 45 Arbeitnehmern.
 - **Leiharbeitsvertrag:** Ein Arbeitnehmer wird mit seiner Zustimmung von einem Arbeitgeber (Verleiher) an einen anderen Arbeitgeber (Entleiher) überlassen.
 
-Pflichtinhalt des Arbeitsvertrags / der Niederschrift (Nachweisgesetz):
-Name und Anschrift der Vertragspartner, Arbeitsort, Tätigkeitsbeschreibung, Vergütung, Arbeitszeit, Urlaubsdauer, Kündigungsfristen, Hinweise auf Tarifverträge und Betriebsvereinbarungen.
+**Pflichtinhalt des Arbeitsvertrags / der Niederschrift (Nachweisgesetz):**
+
+- Name und Anschrift der Vertragspartner
+- Arbeitsort
+- Tätigkeitsbeschreibung
+- Vergütung
+- Arbeitszeit
+- Urlaubsdauer
+- Kündigungsfristen
+- Hinweise auf Tarifverträge und Betriebsvereinbarungen
 
 ## 2. Kündigunsfristen
 
