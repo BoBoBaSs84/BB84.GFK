@@ -48,7 +48,7 @@ Liquidität ist die Fähigkeit eines Unternehmens, seinen fälligen Zahlungsverp
 
 Ursachen für Abweichungen und Handlungsbedarf liegen häufig in folgenden Bereichen: Forderungsausfälle, unvorhergesehene Mehrausgaben wie Steuernachzahlungen, oder Einnahmerückgänge.
 
-### Maßnahmen zur Liquiditätssteuerung (Liquiditätsmanagement)
+### 3.1 Maßnahmen zur Liquiditätssteuerung (Liquiditätsmanagement)
 
 Zur stetigen Erhaltung ausreichender Liquidität sollte ein Liquiditätsmanagement durchgeführt werden. Dieses enthält unter anderem:
 

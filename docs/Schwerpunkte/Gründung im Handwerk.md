@@ -21,7 +21,7 @@ Wer einen Betrieb gründen oder übernehmen will, muss drei Bereiche von Anforde
 
 **Sozialversicherungszweige:** Krankenversicherung, Unfallversicherung, Rentenversicherung, Arbeitslosenversicherung, Pflegeversicherung.
 
-### Besonderheiten für Selbstständige:
+### 2.1 Besonderheiten für Selbstständige:
 
 **Krankenversicherung:** Es gilt grundsätzlich Versicherungspflicht. Existenzgründer können sich unter bestimmten Voraussetzungen freiwillig in der gesetzlichen Krankenversicherung versichern. Der Beitragssatz beträgt 14,6 % plus Zusatzbeitrag (aktuell ca. 2,5 %).
 
@@ -46,7 +46,7 @@ Wer einen Betrieb gründen oder übernehmen will, muss drei Bereiche von Anforde
 
 Zielgruppen des Businessplans sind erstens der Gründer selbst zur realistischen Einschätzung seiner Chancen und Risiken, zweitens Berater von Handwerkskammern und Fachorganisationen sowie drittens Kreditinstitute und andere Geldgeber.
 
-### Wesentliche Inhalte eines Businessplans:
+### 3.1 Wesentliche Inhalte eines Businessplans:
 
 - Kurzzusammenfassung
 - Gründerperson (Qualifikation, Motive, Eignung)

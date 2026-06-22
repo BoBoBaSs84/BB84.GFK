@@ -1,12 +1,12 @@
 # Prüfungsschwerpunkte - Organisation
 
-## Internet / Erstellung und Anwendung Homepage
+## 1. Internet / Erstellung und Anwendung Homepage
 
-### Was ist das Internet?
+### 1.1 Was ist das Internet?
 
 Das Internet ist die Gesamtheit aller weltweit zusammengeschlossenen Computernetzwerke, die nach einem standardisierten Verfahren miteinander kommunizieren. Heute nutzen auch kleine Betriebe Internetserver sowie Cloud-Computing, um rund um die Uhr von jedem Punkt der Welt auf Daten zugreifen zu können.
 
-### Nutzungsmöglichkeiten für den Handwerksbetrieb
+### 1.2 Nutzungsmöglichkeiten für den Handwerksbetrieb
 
 - Darstellung des Betriebs und seiner Leistungen über eine eigene Homepage (Domain, z. B. www.IhrBetriebsname.de)
 - Kundenbetreuung und Kundengewinnung
@@ -18,14 +18,14 @@ Das Internet ist die Gesamtheit aller weltweit zusammengeschlossenen Computernet
 - Onlineshops zur Erweiterung des Geschäftsgebiets
 - Bewertungsportale als Kriterium für Kundenauswahl
 
-### Vorteile einer eigenen Homepage
+### 1.3 Vorteile einer eigenen Homepage
 
 - Erreichbarkeit rund um die Uhr, 365 Tage, regional und überregional
 - Informationen sind zeit- und ortsunabhängig verfügbar
 - Kostenersparnis gegenüber traditioneller Werbung
 - Anschauliche, werbelich effektive Darstellung von Produkten und Dienstleistungen
 
-### Checkliste zur Erstellung des Internetauftritts (6 Schritte)
+### 1.4 Checkliste zur Erstellung des Internetauftritts (6 Schritte)
 
 1. **Zieldefinition:** Was soll der Auftritt leisten? (Präsentation, Information, Vertriebsunterstützung)
 2. **Zeitplanung:** Wann geht der Auftritt online? Alle Funktionen müssen zum Starttermin einwandfrei laufen.
@@ -34,20 +34,20 @@ Das Internet ist die Gesamtheit aller weltweit zusammengeschlossenen Computernet
 5. **Erfolgskontrolle:** Feedback-Formulare, Seitenstatistiken, Logfiles
 6. **Impressumspflichten beachten:** Name, Anschrift, Rechtsform, Vertretungsberechtigung, Kontaktdaten, Registereintrag, Umsatzsteuer-ID
 
-### Hinweise für die Umsetzung
+### 1.5 Hinweise für die Umsetzung
 
 - Professionelle Hilfe einer Internetagentur in Anspruch nehmen; einen „Internetverantwortlichen" im Betrieb benennen
 - Startseite muss schnell laden, sonst steigt die Abbruchrate
 - Übersichtliche Verzeichnisstruktur und einfache Navigation
 - Alle Hyperlinks vor dem Start überprüfen
 
-## Bedeutung von Suchmaschinen
+## 2. Bedeutung von Suchmaschinen
 
-### Grundaussage
+### 2.1 Grundaussage
 
 Die gute Sichtbarkeit des Internetauftritts in den wichtigsten Suchmaschinen ist die Basis für ausreichende Besucherzahlen. Eine gut gestaltete Homepage ist nur dann effizient, wenn sie durch Suchmaschinen-Marketing genügend Interessenten und Kunden anzieht.
 
-### Suchmaschinenoptimierung (SEO)
+### 2.2 Suchmaschinenoptimierung (SEO)
 
 SEO steht für Search Engine Optimization. Effektive Maßnahmen sind:
 
@@ -57,16 +57,16 @@ SEO steht für Search Engine Optimization. Effektive Maßnahmen sind:
 - Optimierte Seitentitel
 - Optimierte Landing Pages (Zielseiten)
 
-### Weitere Online-Präsenz
+### 2.3 Weitere Online-Präsenz
 
 - Verlinkungen und Bannerwerbung auf anderen Homepages
 - Onlineshops zur Erweiterung des Kundenstamms
 - Bewertungsportale: für potenzielle Kunden ein wichtiges Auswahlkriterium
 - Social Media (Xing, LinkedIn, Facebook, Instagram): Möglichkeit zur Geschäftsbahnung, Kundenpflege und Kommunikation
 
-## Einführung Qualitätsmanagement
+## 3. Einführung Qualitätsmanagement
 
-### Definitionen
+### 3.1 Definitionen
 
 Qualitätssicherung ist der übergeordnete Begriff für alle organisatorischen und technischen Maßnahmen zur Schaffung und Erhaltung hoher Qualitätsstandards.
 
@@ -74,7 +74,7 @@ Qualitätsmanagement (QM) bezeichnet die Gesamtheit aller qualitätsbezogenen T�
 
 Ziele des QM: Fehler vermeiden, Qualität durch gezielte Abläufe produzieren, Missverständnisse zwischen Betrieb, Kunden und Mitarbeitern ausräumen.
 
-### Schritte beim Aufbau eines QM-Systems
+### 3.2 Schritte beim Aufbau eines QM-Systems
 
 1. Aufstellung der unternehmensspezifischen Qualitätspolitik durch den Betriebsinhaber
 2. Planung der Vorgehensweise und Benennung eines Verantwortlichen
@@ -83,18 +83,18 @@ Ziele des QM: Fehler vermeiden, Qualität durch gezielte Abläufe produzieren, M
 5. Information und Schulung der Mitarbeiter vor und während der Einführungsphase
 6. Ständige Überprüfung, Anpassung und Verbesserung des Systems
 
-### QM-Handbuch
+### 3.3 QM-Handbuch
 
 Das QM-Handbuch enthält Verfahrensanweisungen und Prozessbeschreibungen mit konkreten Vorgehensweisen und Zuständigkeiten. Es wird in der Regel IT-gestützt dokumentiert. Ergänzend gibt es Arbeitsanweisungen für einzelne Tätigkeiten.
 
-### Zertifizierung
+### 3.4 Zertifizierung
 
 - Erst wenn ein QM-System aufgebaut und praktiziert wird, kann es von einer externen Stelle (Zertifizierer) bestätigt werden.
 - Vorher findet ein Audit (Überprüfung des Ist-Zustandes) statt.
 - Die Norm DIN EN ISO 9001 ist die internationale, branchenübergreifende Norm für prozessorientiertes QM.
 - Im Handwerk: Zertifizierungsstelle „ZDH-Zert" beim Zentralverband des Deutschen Handwerks (www.zdh-zert.de)
 
-### Nutzen des QM
+### 3.5 Nutzen des QM
 
 - Kostensenkung durch systematische Qualitätsprozesse
 - Steigerung der Kundenzufriedenheit
@@ -107,9 +107,9 @@ Das QM-Handbuch enthält Verfahrensanweisungen und Prozessbeschreibungen mit kon
 
 ---
 
-## Inhalt Angebot und Rechnung
+## 4. Inhalt Angebot und Rechnung
 
-### Inhalte eines Angebots
+### 4.1 Inhalte eines Angebots
 
 Bei der Erstellung eines Angebots sind folgende Punkte zu berücksichtigen:
 
@@ -126,7 +126,7 @@ Bei der Erstellung eines Angebots sind folgende Punkte zu berücksichtigen:
 
 Aufbau eines Angebots (Positionen): Material, Arbeit, Anfahrt, Summe, Nachlass, Netto, MwSt., Gesamt
 
-### Pflichtangaben einer Rechnung
+### 4.2 Pflichtangaben einer Rechnung
 
 - Vollständiger Name und Anschrift des leistenden Unternehmens
 - Name und Anschrift des Leistungsempfängers
@@ -148,20 +148,20 @@ Aufbau eines Angebots (Positionen): Material, Arbeit, Anfahrt, Summe, Nachlass, 
 
 ---
 
-## Merkmale und Schwerpunkte des Rechnungswesens
+## 5. Merkmale und Schwerpunkte des Rechnungswesens
 
-### 1. Was ist das Rechnungswesen?
+### 5.1 Was ist das Rechnungswesen?
 
 Das Rechnungswesen dient der **mengen- und wertmäßigen Erfassung** der Geld- und Leistungsströme eines Unternehmens. Es ist das **zentrale Informationsinstrument** eines Betriebes.
 
-### 2. Wesentliche Aufgaben
+### 5.2 Wesentliche Aufgaben
 
 Das Rechnungswesen liefert Informationen für:
 
 - **Betriebsintern:** Betriebsinhaber, Mitarbeiter → Planung, Steuerung, Kontrolle
 - **Betriebsextern:** Banken, Finanzamt, Geschäftspartner, Öffentlichkeit → Rechnungslegung & Transparenz
 
-### 3. Kernsysteme (Teilsysteme) des Rechnungswesens
+### 5.3 Kernsysteme (Teilsysteme) des Rechnungswesens
 
 | Teilsystem                      | Inhalt / Zweck                                             |
 | ------------------------------- | ---------------------------------------------------------- |
@@ -177,27 +177,27 @@ Das Rechnungswesen liefert Informationen für:
 
 ---
 
-### 4. Schwerpunkte im Überblick
+### 5.4 Schwerpunkte im Überblick
 
-#### Buchführung & Jahresabschluss
+#### 5.4.1 Buchführung & Jahresabschluss
 
 - Ordnungsgemäße Buchführung nach gesetzlichen Vorgaben (HGB, GoBD)
 - Führung von Haupt- und Nebenbüchern (Kunden-/Lieferantenbuch)
 - Erstellung von Bilanz und Gewinn- und Verlustrechnung (GuV)
 
-#### Kostenrechnung & Kalkulation
+#### 5.4.2 Kostenrechnung & Kalkulation
 
 - Kostenartenrechnung → Kostenstellenrechnung → Kostenträgerrechnung
 - Grundlage: Daten aus der Buchführung
 - Ziel: Wirtschaftlichkeitskontrolle und Preisbildung
 
-#### Planungsrechnung / Controlling
+#### 5.4.3 Planungsrechnung / Controlling
 
 - Finanzierung von Investitionsvorhaben
 - Rentabilitätsprüfung neuer Verfahren
 - Soll-Ist-Vergleiche zur Steuerung
 
-### 5. Einrichtung des betrieblichen Rechnungswesens
+### 5.5 Einrichtung des betrieblichen Rechnungswesens
 
 Ein geordnetes, auf die betrieblichen Verhältnisse abgestimmtes Rechnungswesen ist **Voraussetzung für eine erfolgreiche Betriebsführung**.
 
@@ -214,7 +214,7 @@ Vor Betriebsbeginn sind einzurichten:
 
 ---
 
-### 6. Ausgliederung von Buchführungsarbeiten
+### 5.6 Ausgliederung von Buchführungsarbeiten
 
 Mögliche externe Stellen:
 
@@ -222,7 +222,7 @@ Mögliche externe Stellen:
 - **Steuerkanzleien**
 - **EDV-Rechenzentren** (z. B. DATEV)
 
-## Kooperation (Ziele, Formen)
+## 6. Kooperation (Ziele, Formen)
 
 ---
 
@@ -231,7 +231,7 @@ Mögliche externe Stellen:
 
 ---
 
-### Ziele der Kooperation
+### 6.1 Ziele der Kooperation
 
 - Durchführung größerer Aufträge / Erzielung attraktiverer Preise
 - Stärkung der Wettbewerbsfähigkeit
@@ -243,13 +243,13 @@ Mögliche externe Stellen:
 - Bessere Nutzung von Spezialwissen
 - Verteilung des Risikos
 
-### Formen der Kooperation
+### 6.2 Formen der Kooperation
 
 **Horizontale Kooperation:** Zusammenarbeit von gleichartigen Betrieben (gleiche Branche) mit dem Ziel, größere Aufträge durchführen zu können.
 
 **Vertikale Kooperation:** Zusammenarbeit mehrerer Fertigungsstufen, z. B. Generalunternehmen und Subunternehmen im Baubereich.
 
-### Kooperationsbereiche und Einrichtungen
+### 6.3 Kooperationsbereiche und Einrichtungen
 
 **Beschaffung:** Einkaufsgenossenschaften, Kreditgenossenschaften, Einkaufsgemeinschaften (Ziel: günstigere Konditionen durch Mengeneinkauf)
 
@@ -263,7 +263,7 @@ Mögliche externe Stellen:
 
 **Onlinebasierte Kooperationen:** Ermöglichen horizontale und vertikale Zusammenarbeit weit über das regionale Gebiet hinaus.
 
-### Kooperationsvertrag (Pflichtinhalt)
+### 6.4 Kooperationsvertrag (Pflichtinhalt)
 
 - Vertragspartner
 - Gegenstand der Kooperation

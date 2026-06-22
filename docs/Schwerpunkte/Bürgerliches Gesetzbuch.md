@@ -1,10 +1,10 @@
 # Bürgerliches Gesetzbuch
 
-## Güterstände
+## 1. Güterstände
 
 Güterstände regeln das Vermögensverhältnis zwischen Ehegatten. Es gibt drei Formen:
 
-### Zugewinngemeinschaft (gesetzlicher Güterstand)
+### 1.1 Zugewinngemeinschaft (gesetzlicher Güterstand)
 
 Entsteht automatisch durch Heirat, wenn kein notarieller Ehevertrag geschlossen wird. Jeder Ehegatte verwaltet sein Vermögen selbst. Bei Scheidung wird der beiderseitige Zugewinn berechnet und ausgeglichen. Zugewinn = Endvermögen minus Anfangsvermögen. Wer mehr Zugewinn erzielt hat, muss dem anderen die Hälfte des Überschusses auszahlen. Schenkungen und Erbschaften während der Ehe bleiben beim Zugewinnausgleich grundsätzlich außen vor.
 
@@ -15,47 +15,47 @@ Entsteht automatisch durch Heirat, wenn kein notarieller Ehevertrag geschlossen 
 
 ---
 
-### Gütertrennung (durch Ehevertrag)
+### 1.2 Gütertrennung (durch Ehevertrag)
 
 Erfordert notarielle Beurkundung bei gleichzeitiger Anwesenheit beider Ehegatten. Absolute Trennung der Vermögensmassen. Jeder haftet für seine Schulden allein. Bei Scheidung findet kein Vermögensausgleich statt.
 
-### Gütergemeinschaft (durch Ehevertrag)
+### 1.3 Gütergemeinschaft (durch Ehevertrag)
 
 Ebenfalls notariell zu vereinbaren. Die Vermögen der Ehegatten werden vereinigt zum sogenannten Gesamtgut. Beide verwalten gemeinsam oder einer nach Vereinbarung allein. Schulden des Gesamtguts betreffen beide. Bei Beendigung (z. B. Scheidung) erhält jeder die Hälfte des Gesamtguts.
 
 > [!IMPORTANT]
 > **Merksatz:** Zugewinngemeinschaft = gesetzlicher Regelfall | Gütertrennung und Gütergemeinschaft = nur durch notariellen Ehevertrag
 
-## Sicherungsmöglichkeiten Werklohn
+## 2. Sicherungsmöglichkeiten Werklohn
 
 Der Handwerker hat ein besonderes Interesse, seine Werklohnforderung abzusichern. Das Gesetz stellt ihm folgende Sicherungsmöglichkeiten zur Verfügung:
 
-### Unternehmerpfandrecht (gesetzliches Pfandrecht)
+### 2.1 Unternehmerpfandrecht (gesetzliches Pfandrecht)
 
 Der Handwerker hat ein gesetzliches Pfandrecht an der beweglichen Sache, die er bearbeitet hat (z. B. repariertes Gerät). Er darf die Sache zurückbehalten, bis der Kunde zahlt (Zurückbehaltungsrecht). Bei Nichtzahlung kann er den Gegenstand nach Fristsetzung gerichtlich versteigern lassen und seinen Werklohn aus dem Erlös decken.
 
-### Bauhandwerkersicherungshypothek
+### 2.2 Bauhandwerkersicherungshypothek
 
 Für Bauleistungen an einem Grundstück hat der Bauhandwerker einen Anspruch auf Eintragung einer Sicherungshypothek im Grundbuch des Bauherrn. Diese sichert die Werklohnforderung dinglich ab.
 
-### Bauhandwerkersicherung
+### 2.3 Bauhandwerkersicherung
 
 Der Unternehmer kann vom Besteller (Gewerbekunden) Sicherheitsleistung in Höhe von 110 % der Gesamtvergütung verlangen. Wird die Frist zur Sicherheitsleistung nicht eingehalten, kann der Handwerker kündigen oder die Leistung verweigern.
 
-### Abschlagszahlungen
+### 2.4 Abschlagszahlungen
 
 Nicht vergessen: Der Handwerker kann und sollte Abschlagszahlungen einfordern, um das Ausfallrisiko zu minimieren.
 
-### Eigentumsvorbehalt
+### 2.5 Eigentumsvorbehalt
 
 Beim Verkauf von Materialien kann der Handwerker das Eigentum bis zur vollständigen Bezahlung vorbehalten. Achtung: Werden Materialien (z. B. Türen, Fensterstöcke) fest in ein Gebäude eingebaut, geht das Eigentum in der Regel auf den Bauherrn über.
 
-### Übersicht Sicherungsarten
+### 2.6 Übersicht Sicherungsarten
 
 **Gesetzliche Sicherungsrechte:** Unternehmerpfandrecht, Bauhandwerkersicherungshypothek
 **Vertragliche Sicherungsrechte:** Eigentumsvorbehalt, Sicherungsübereignung, Bürgschaft, Grundpfandrechte (Hypothek, Grundschuld)
 
-## Nichtigkeitsgründe bei Rechtsgeschäften
+## 3. Nichtigkeitsgründe bei Rechtsgeschäften
 
 Ein nichtiges Rechtsgeschäft ist von Anfang an unwirksam und entfaltet keinerlei Rechtswirkung.
 
@@ -75,7 +75,7 @@ Ein nichtiges Rechtsgeschäft ist von Anfang an unwirksam und entfaltet keinerle
 
 ---
 
-## Anfechtung von Rechtsgeschäften
+## 4. Anfechtung von Rechtsgeschäften
 
 Ein anfechtbares Rechtsgeschäft ist zunächst wirksam, wird aber durch die Anfechtungserklärung rückwirkend nichtig.
 
@@ -98,9 +98,9 @@ Ein anfechtbares Rechtsgeschäft ist zunächst wirksam, wird aber durch die Anfe
 Bei Irrtum: unverzüglich nach Entdeckung (ohne schuldhaftes Zögern)
 Bei arglistiger Täuschung oder Drohung: innerhalb eines Jahres nach Entdeckung, spätestens nach 10 Jahren
 
-## Mietvertrag, Pachtvertrag
+## 5. Mietvertrag, Pachtvertrag
 
-### Mietvertrag
+### 5.1 Mietvertrag
 
 Der Vermieter überlässt dem Mieter eine Sache zum Gebrauch gegen Zahlung des Mietzinses. Der Mieter darf die Sache nutzen, aber keine Früchte (Erträge) daraus ziehen.
 
@@ -108,7 +108,7 @@ Der Vermieter überlässt dem Mieter eine Sache zum Gebrauch gegen Zahlung des M
 
 **Pflichten des Mieters:** Zahlung des Mietzinses, pflegliche Behandlung der Mietsache.
 
-#### Gesetzliche Kündigungsfristen:
+#### 5.1.1 Gesetzliche Kündigungsfristen:
 
 **Gewerberäume:** spätestens am dritten Werktag eines Kalendervierteljahres für den Ablauf des nächsten Kalendervierteljahres
 **Wohnungen:** spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats (für Vermieter verlängert sich die Frist nach 5 und 8 Jahren Mietdauer um je 3 Monate)
@@ -117,7 +117,7 @@ Sicherungsrecht des Vermieters: Der Vermieter hat ein gesetzliches Pfandrecht an
 
 Schutz: Mieter von Gewerberäumen sind gesetzlich kaum geschützt. Vertragliche Vereinbarungen (z. B. feste Laufzeit) sind daher dringend zu empfehlen.
 
-### Pachtvertrag
+### 5.2 Pachtvertrag
 
 Der Verpächter überlässt dem Pächter Gebrauch, Nutzung und Fruchtgenuss des Pachtobjekts gegen Pachtzins. Fruchtgenuss bedeutet: Der Pächter darf auch die Erträge aus dem Pachtobjekt behalten (z. B. Einnahmen aus dem Betrieb einer Werkstatt).
 
@@ -129,7 +129,7 @@ Unterschied Miete / Pacht auf einen Blick:
 Miete = nur Gebrauch der Sache
 Pacht = Gebrauch + Nutzung + Fruchtgenuss (Erträge)
 
-## Vertrieb per Onlineshop (Pflichten)
+## 6. Vertrieb per Onlineshop (Pflichten)
 
 Wer Waren oder Dienstleistungen über einen Onlineshop anbietet, schließt sogenannte Fernabsatzverträge mit Verbrauchern. Es gelten besondere gesetzliche Pflichten.
 
@@ -137,7 +137,7 @@ Wer Waren oder Dienstleistungen über einen Onlineshop anbietet, schließt sogen
 
 Ein Vertrag, bei dem Vertragsverhandlung und Vertragsschluss ausschließlich über Fernkommunikationsmittel (Internet, E-Mail, Telefon, Fax, Brief) stattfinden. Onlineshops führen stets zu Fernabsatzverträgen.
 
-### Pflichten des Unternehmers
+### 6.1 Pflichten des Unternehmers
 
 1. **Informationspflichten vor Vertragsschluss:** Name und Anschrift des Unternehmers, Kosten und Zahlungsbedingungen, Lieferbedingungen, Hinweis auf das Widerrufsrecht.
 2. **Formvorschriften:** Die Informationen müssen in klarer und verständlicher Form bereitgestellt werden.
@@ -145,7 +145,7 @@ Ein Vertrag, bei dem Vertragsverhandlung und Vertragsschluss ausschließlich üb
 4. **Hinweis auf die Online-Streitbeilegungs-Plattform der EU:** Betriebe, die Verträge online oder per E-Mail schließen, müssen auf ihrer Website auf diese Plattform hinweisen.
 5. **Datenschutz (DSGVO):** Personenbezogene Daten dürfen nur mit Einwilligung des Betroffenen für Werbezwecke genutzt werden.
 
-### Risiken bei Pflichtverletzungen
+### 6.2 Risiken bei Pflichtverletzungen
 
 Der Verbraucher kann Schadensersatz verlangen oder bis zu 12 Monate und 14 Tage widerrufen, ohne Wert- oder Nutzungsersatz zu leisten. Außerdem besteht das Risiko einer kostenpflichtigen Abmahnung durch Mitbewerber.
 
