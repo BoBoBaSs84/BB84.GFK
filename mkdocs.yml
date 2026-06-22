@@ -5,21 +5,21 @@ docs_dir: docs
 nav:
   - Übersicht: Prüfungsschwerpunkte.md
   - Schwerpunkte:
-      - Gründung im Handwerk: Schwerpunkte/Gründung im Handwerk.md
-      - Marketing: Schwerpunkte/Marketing.md
-      - Rechtsformen: Schwerpunkte/Rechtsformen.md
-      - Finanzierung: Schwerpunkte/Finanzierung.md
-      - Rentabilitätsvorschau: Schwerpunkte/Rentabilitätsvorschau.md
-      - Personalwesen: Schwerpunkte/Personalwesen.md
-      - Kommunikation: Schwerpunkte/Kommunikation.md
       - Arbeitsrecht: Schwerpunkte/Arbeitsrecht.md
-      - Organisation: Schwerpunkte/Organisation.md
       - Bürgerliches Gesetzbuch: Schwerpunkte/Bürgerliches Gesetzbuch.md
-      - Wirtschaftsrecht: Schwerpunkte/Wirtschaftsrecht.md
-      - Steuern: Schwerpunkte/Steuern.md
       - Controlling: Schwerpunkte/Controlling.md
-      - Kosten-Leistungs-Rechnung: Schwerpunkte/Kosten-Leistungs-Rechnung.md
+      - Finanzierung: Schwerpunkte/Finanzierung.md
+      - Gründung im Handwerk: Schwerpunkte/Gründung im Handwerk.md
+      - Kommunikation: Schwerpunkte/Kommunikation.md
       - Kommunikations- und Präsentationstechniken: Schwerpunkte/Kommunikations- und Präsentationstechniken.md
+      - Kosten-Leistungs-Rechnung: Schwerpunkte/Kosten-Leistungs-Rechnung.md
+      - Marketing: Schwerpunkte/Marketing.md
+      - Organisation: Schwerpunkte/Organisation.md
+      - Personalwesen: Schwerpunkte/Personalwesen.md
+      - Rechtsformen: Schwerpunkte/Rechtsformen.md
+      - Rentabilitätsvorschau: Schwerpunkte/Rentabilitätsvorschau.md
+      - Steuern: Schwerpunkte/Steuern.md
+      - Wirtschaftsrecht: Schwerpunkte/Wirtschaftsrecht.md
 
 theme:
   name: material
