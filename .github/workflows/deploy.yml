@@ -15,5 +15,5 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-      - run: pip install "mkdocs<2.0" plantuml-markdown urllib3 mkdocs-redirects mkdocs-callouts
+      - run: pip install "mkdocs<2.0" plantuml-markdown urllib3 requests mkdocs-redirects mkdocs-callouts
       - run: mkdocs gh-deploy --force
