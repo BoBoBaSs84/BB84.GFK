@@ -3,48 +3,28 @@ site_url: https://bobobass84.github.io/BB84.GFK/
 docs_dir: docs
 
 nav:
-  - Übersicht: Prüfungsschwerpunkte.md
-  - Schwerpunkte:
-      - Arbeitsrecht: Schwerpunkte/Arbeitsrecht.md
-      - Bürgerliches Gesetzbuch: Schwerpunkte/Bürgerliches Gesetzbuch.md
-      - Controlling: Schwerpunkte/Controlling.md
-      - Finanzierung: Schwerpunkte/Finanzierung.md
-      - Gründung im Handwerk: Schwerpunkte/Gründung im Handwerk.md
-      - Kommunikation: Schwerpunkte/Kommunikation.md
-      - Kommunikations- und Präsentationstechniken: Schwerpunkte/Kommunikations- und Präsentationstechniken.md
-      - Kosten-Leistungs-Rechnung: Schwerpunkte/Kosten-Leistungs-Rechnung.md
-      - Marketing: Schwerpunkte/Marketing.md
-      - Organisation: Schwerpunkte/Organisation.md
-      - Personalwesen: Schwerpunkte/Personalwesen.md
-      - Rechtsformen: Schwerpunkte/Rechtsformen.md
-      - Rentabilitätsvorschau: Schwerpunkte/Rentabilitätsvorschau.md
-      - Steuern: Schwerpunkte/Steuern.md
-      - Wirtschaftsrecht: Schwerpunkte/Wirtschaftsrecht.md
+  - Handlungsfeld 1 - Wettbewerbsfähigkeit von Unternehmen beurteilen:
+      - Grundlagen Rechnungswesen: "Schwerpunkte/Handlungsfeld 1/Grundlagen Rechnungswesen.md"
+      - Kosten- und Leistungsrechnung: "Schwerpunkte/Handlungsfeld 1/Kosten- und Leistungsrechnung.md"
+      - Marketing I: "Schwerpunkte/Handlungsfeld 1/Marketing I.md"
+      - Wirtschaftsrecht: "Schwerpunkte/Handlungsfeld 1/Wirtschaftsrecht.md"
+  - Handlungsfeld 2 - Gründungs- und Übernahmeaktivitäten vorbereiten, durchführen und bewerten:
+      - Investitionsrechnung - Finanzierung: "Schwerpunkte/Handlungsfeld 2/Investitionsrechnung - Finanzierung.md"
+      - Recht: "Schwerpunkte/Handlungsfeld 2/Recht.md"
+      - Unternehmensgründung - Unternehmensübernahme: "Schwerpunkte/Handlungsfeld 2/Unternehmensgründung - Unternehmensübernahme.md"
+  - Handlungsfeld 3 - Unternehmensführungsstrategien entwickeln:
+      - Arbeits- und Sozialversicherungsrecht: "Schwerpunkte/Handlungsfeld 3/Arbeits- und Sozialversicherungsrecht.md"
+      - Investitionsrechnung - Finanzierung: "Schwerpunkte/Handlungsfeld 3/Investitionsrechnung - Finanzierung.md"
+      - Marketing II - Controlling: "Schwerpunkte/Handlungsfeld 3/Marketing II - Controlling.md"
+      - Organisation: "Schwerpunkte/Handlungsfeld 3/Organisation.md"
+      - Personal - Mitarbeiterführung: "Schwerpunkte/Handlungsfeld 3/Personal - Mitarbeiterführung.md"
+  - Kommunikations- und Präsentationstechniken im Geschäftsverkehr einsetzen: "Schwerpunkte/Kommunikations- und Präsentationstechniken im Geschäftsverkehr einsetzen.md"
 
 theme:
-  name: material
-  language: de
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Dunkelmodus
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Hellmodus
-  features:
-    - navigation.expand
-    - navigation.top
-    - navigation.sections
-    - search.highlight
-    - search.suggest
-    - content.code.copy
-    - toc.follow
+  name: mkdocs
+  color_mode: auto
+  user_color_mode_toggle: true
+  locale: de
 
 markdown_extensions:
   - plantuml_markdown:
@@ -64,5 +44,5 @@ plugins:
       lang: de
   - redirects:
       redirect_maps:
-        "index.md": "Prüfungsschwerpunkte.md"
+        "index.md": "Schwerpunkte/Handlungsfeld 1/Grundlagen Rechnungswesen.md"
   - callouts
