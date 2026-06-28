@@ -126,9 +126,9 @@ $$\text{Gemeinkostenzuschlagsatz} = \frac{\text{Gemeinkostensumme}}{\text{Lohnei
 
 **Rechenbeispiel (Betrieb Bergmann):**
 
-$$\text{Gemeinkostenzuschlagsatz} = \frac{312.500\,€}{218.000\,€} \times 100 = \mathbf{143{,}3\,\%}$$
+$$\text{Gemeinkostenzuschlagsatz} = \frac{312.500{,}00\text{ €}}{218.000{,}00\text{ €}} \times 100 = \mathbf{143{,}3\%}$$
 
-→ Auf jeden Euro Lohneinzelkosten müssen 1,433 € Gemeinkosten aufgeschlagen werden.
+→ Auf jeden Euro Lohneinzelkosten müssen 1,43 € Gemeinkosten aufgeschlagen werden.
 
 Es gibt drei mögliche Bezugsgrößen für den Gemeinkostenzuschlagsatz:
 
@@ -355,7 +355,7 @@ $$\text{Gewinnschwelle (Umsatz)} = \frac{\text{Fixkosten}}{\text{Deckungsbeitrag
 - Stückdeckungsbeitrag: 11.000 € – 3.000 € = **8.000 €**
 - Fixkosten: **700.000 €**
 
-$$\text{Gewinnschwelle} = \frac{700.000\,€}{8.000\,€/\text{Stück}} = \mathbf{87{,}5 \text{ Stück}}$$
+$$\text{Gewinnschwelle} = \frac{700.000{,}00\text{ €}}{8.000{,}00\text{ €}} = \mathbf{87{,}5 \text{ Stück}}$$
 
 → Der Betrieb muss mindestens **88 Einheiten** verkaufen, um keine Verluste zu machen. Jede darüber hinaus verkaufte Einheit trägt mit 8.000 € zum Gewinn bei.
 
