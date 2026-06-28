@@ -99,22 +99,18 @@ Der **Lieferantenkredit** ist ein kurzfristiger Kredit. Er besteht darin, dass m
 
 Handwerksmeister Klaus Bauer kauft Material für 10.000,00 EUR, zahlbar innerhalb von 10 Tagen mit 3 % Skonto oder nach 30 Tagen ohne Abzug.
 
-```
-Skontoabzug:    10.000,00 EUR × 3 % = 300,00 EUR
-Überweisungsbetrag bei Skontierung: 9.700,00 EUR
+$$\text{Skontoabzug: }10.000{,}00\text{ €}\times3\%=300{,}00\text{ €}$$
+$$\text{Überweisungsbetrag bei Skontierung: }9.700{,}00\text{ €}$$
+$$\text{Zinsaufwand Kontokorrentkredit }(12\%\text{ p. a., 20 Tage})$$
+$$=\frac{9.700{,}00\text{ €}\times12\%\times20}{360\text{ Tage}}=64{,}67\text{ €}$$
+$$\text{Einsparung durch Skontierung: }300{,}00\text{ €}-64{,}67\text{ €}=\mathbf{235{,}33\text{ €}}$$
 
-Zinsaufwand Kontokorrentkredit (12 % p. a., 20 Tage):
-= 9.700,00 × 12 × 20 / 36.000 = 64,67 EUR
-
-Einsparung durch Skontierung: 300,00 – 64,67 = 235,33 EUR
-```
-
-→ **Ergebnis:** Es ist vorteilhaft, den Kontokorrentkredit zur Skontoausnutzung einzusetzen.
+**Ergebnis:** Es ist vorteilhaft, den Kontokorrentkredit zur Skontoausnutzung einzusetzen.
 
 ---
 
 > [!TIP]
-> **Prüfungstipp:** Die Berechnung des Skontovorteils gegenüber dem Kontokorrentkredit ist eine klassische Prüfungsaufgabe. Formel merken: Zinsaufwand = Überweisungsbetrag × Zinssatz × Tage / 36.000.
+> **Prüfungstipp:** Die Berechnung des Skontovorteils gegenüber dem Kontokorrentkredit ist eine klassische Prüfungsaufgabe. Formel merken: Zinsaufwand = Überweisungsbetrag × Zinssatz × Tage / 360 Tage.
 
 ---
 
@@ -356,4 +352,4 @@ In der Praxis gelten folgende allgemeine **Finanzierungsregeln** als Orientierun
 | **Kapitalbedarfsrechnung**          | Investitionsbedarf + Betriebsmittelbedarf = Gesamtkapitalbedarf                   |
 | **Selbstschuldnerische Bürgschaft** | Bürge haftet wie Schuldner; Einrede der Vorausklage ausgeschlossen                |
 | **Globalzession**                   | Abtretung aller gegenwärtigen und zukünftigen Forderungen an die Bank             |
-| **Skontoformel**                    | Zinsaufwand = Überweisungsbetrag × Zinssatz × Tage / 36.000                       |
+| **Skontoformel**                    | Zinsaufwand = Überweisungsbetrag × Zinssatz × Tage / 360 Tage                     |

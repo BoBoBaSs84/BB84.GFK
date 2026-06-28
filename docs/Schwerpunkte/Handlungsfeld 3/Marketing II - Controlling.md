@@ -266,10 +266,10 @@ Die **Marketinginstrumente** werden nicht isoliert, sondern kombiniert in einem 
 ```plantuml
 @startuml
 rectangle "Marketing-Mix" as MM
-rectangle "1. Produktpolitik" as P
-rectangle "2. Preispolitik" as PR
-rectangle "3. Kommunikationspolitik" as K
-rectangle "4. Vertriebspolitik" as V
+rectangle "Produktpolitik" as P
+rectangle "Preispolitik" as PR
+rectangle "Kommunikationspolitik" as K
+rectangle "Vertriebspolitik" as V
 MM --> P
 MM --> PR
 MM --> K
@@ -277,15 +277,15 @@ MM --> V
 @enduml
 ```
 
-### 5.2 Produkt- und Sortimentspolitik
+### 5.2 Produkt- und Sortimentspolitik (Product)
 
 Die Aufgabe der **Produktpolitik** ist es, ein an den Bedürfnissen der Nachfrage orientiertes Angebot zu erstellen. Ziel ist es, sich durch ein bedarfsgerechtes Güter- und Dienstleistungsangebot positiv von der Konkurrenz abzuheben. Wichtige Merkmale der äußeren Produkt- und Leistungsgestaltung sind Qualität, Design, Verpackung und Kundendienstleistungen (z. B. Reparatur, Ersatzteilversorgung, Finanzierungsvermittlung, Abhol- und Auslieferungsdienst).
 
-### 5.3 Preis- und Konditionenpolitik
+### 5.3 Preis- und Konditionenpolitik (Price)
 
 Die **Preispolitik** legt fest, zu welchen Preisen und Konditionen Produkte und Dienstleistungen angeboten werden. Neben den betrieblichen Kosten aus Kostenrechnung und Kalkulation müssen auch markt- und konkurrenzorientierte Gesichtspunkte berücksichtigt werden. Instrumente sind u. a. Rabatte, Skonti, Zahlungsziele und Staffelpreise.
 
-### 5.4 Kommunikations- und Werbepolitik
+### 5.4 Kommunikations- und Werbepolitik (Promotion)
 
 Die **Kommunikationspolitik** umfasst alle Maßnahmen, mit denen der Betrieb nach außen kommuniziert. Dazu gehören:
 
@@ -293,7 +293,7 @@ Die **Kommunikationspolitik** umfasst alle Maßnahmen, mit denen der Betrieb nac
 - **Öffentlichkeitsarbeit/PR** (Pressemitteilungen, Tage der offenen Tür, Kundenseminare)
 - **Verkaufsförderung/Sales Promotion** (Messen, Ausstellungen, Sonderangebote, Gewinnspiele, Produktvorführungen)
 
-### 5.5 Vertriebspolitik
+### 5.5 Vertriebspolitik (Place)
 
 Die **Vertriebspolitik** regelt, wie und über welche Wege Produkte und Dienstleistungen zum Kunden gelangen:
 

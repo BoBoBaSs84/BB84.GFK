@@ -230,21 +230,19 @@ Phase 6: Entscheidung
 
 ## 3. Risikomanagement
 
-### 3.1 Grundlagen der Risikovorsorge
-
 Jede unternehmerische Tätigkeit ist Risiken unterworfen. Diese zu erkennen und möglichst gering zu halten, ist Aufgabe der **Risikovorsorge**. Sie ist Pflicht des Betriebsinhabers und gliedert sich in drei aufeinander aufbauende Stufen:
 
 ```plantuml
 @startuml
 rectangle "1. Risikoidentifikation\n(Risiken erkennen)" as R1
-rectangle "2. Risikoanalyse\n(Bewertung nach Wahrscheinlichkeit\nund Schadenshöhe)" as R2
+rectangle "2. Risikoanalyse\n(Bewertung nach Wahrschein-\nlichkeit und Schadenshöhe)" as R2
 rectangle "3. Risikosteuerung\n(Maßnahmen ergreifen)" as R3
 R1 -right-> R2
 R2 -right-> R3
 @enduml
 ```
 
-### 3.2 Risikoidentifikation: Externe und interne Risiken
+### 3.1 Risikoidentifikation: Externe und interne Risiken
 
 Bedrohungen für den Betrieb können von außen (externe Risiken) oder innen (interne Risiken) kommen. Auf externe Risiken hat der Handwerksbetrieb meist keine direkten Einflussmöglichkeiten; interne Risiken sind in den meisten Fällen „hausgemacht".
 
@@ -262,7 +260,7 @@ Bedrohungen für den Betrieb können von außen (externe Risiken) oder innen (in
 |                                                 | Datenverlust                  |
 |                                                 | Chefausfall                   |
 
-### 3.3 Risikoanalyse
+### 3.2 Risikoanalyse
 
 Risiken lassen sich durch zwei Kriterien beschreiben: **Schadenswahrscheinlichkeit** und **(finanzielle) Schadenshöhe**. Das Ergebnis der Analyse kann in einer Matrix dargestellt werden. Risiken mit hoher Eintrittswahrscheinlichkeit und großem finanziellen Schaden sind dabei besonders dringlich.
 
@@ -278,7 +276,7 @@ Risiken lassen sich durch zwei Kriterien beschreiben: **Schadenswahrscheinlichke
 | Kreditkündigung der Bank | hoch         | gering             | Zweite Bankverbindung, hohe Eigenkapitalquote |
 | Ausfall von Maschinen    | mittel       | mittel             | Kooperation, regelmäßige Wartung              |
 
-### 3.4 Risikosteuerung: Die vier Strategien
+### 3.3 Risikosteuerung: Die vier Strategien
 
 Sind die Risiken erkannt und analysiert, gilt es, geeignete Maßnahmen zu ergreifen. Es gibt vier Strategien zur Risikosteuerung, die je nach Art des Risikos unterschiedlich gut geeignet sind und auch kombiniert werden können:
 

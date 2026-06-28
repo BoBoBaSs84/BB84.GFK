@@ -309,7 +309,7 @@ $$\text{Linearer AfA-Betrag} = \frac{\text{Anschaffungs- oder Herstellungskosten
 
 Maschine, Anschaffungskosten 30.000 €, Nutzungsdauer 6 Jahre:
 
-$$\text{AfA pro Jahr} = \frac{30.000 \text{ €}}{6} = 5.000 \text{ €}$$
+$$\text{AfA pro Jahr} = \frac{30.000{,}00 \text{ €}}{6} = 5.000{,}00 \text{ €}$$
 
 Die AfA bei beweglichen Wirtschaftsgütern beginnt grundsätzlich mit dem **Monat der Anschaffung** (zeitanteilige AfA im Anschaffungsjahr).
 

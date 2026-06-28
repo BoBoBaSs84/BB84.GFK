@@ -421,23 +421,23 @@ Nach Ablauf des Planungszeitraums sind die Soll-Beträge des Liquiditätsplans m
 
 ## Schnellübersicht – Wichtige Formeln und Begriffe auf einen Blick
 
-| Begriff / Formel                                                                          | Inhalt / Aussage                                                                               |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **Eigenfinanzierung**                                                                     | Einsatz von Privatvermögen; Mindestanteil: 20 % empfohlen                                      |
-| **Selbstfinanzierung**                                                                    | Gewinn + Abschreibungen – Privatentnahmen – Gewinnausschüttungen                               |
-| **Fremdfinanzierung**                                                                     | Kapitalbeschaffung durch Kredite; verursacht Zins- und Tilgungspflichten                       |
-| **Kontokorrentkredit**                                                                    | Kurzfristig, flexibel abrufbar, nur genutzter Betrag wird verzinst                             |
-| **Annuitätendarlehen**                                                                    | Gleichbleibende Gesamtrate; Tilgungsanteil steigt, Zinsanteil sinkt                            |
-| **Tilgungsdarlehen**                                                                      | Gleiche Tilgungsraten; Gesamtbelastung sinkt                                                   |
-| **Festdarlehen**                                                                          | Rückzahlung am Laufzeitende; während Laufzeit nur Zinsen                                       |
-| **Goldene Bilanzregel**                                                                   | Anlagevermögen durch EK + langfristiges FK decken (Anlagendeckung II ≥ 100 %)                  |
-| $$\text{Anlagendeckung I} = \frac{\text{EK}}{\text{AV}} \times 100$$                      | Deckung des Anlagevermögens durch Eigenkapital                                                 |
-| $$\text{Anlagendeckung II} = \frac{\text{EK} + \text{langfr. FK}}{\text{AV}} \times 100$$ | Goldene Bilanzregel; Zielwert ≥ 100 %                                                          |
-| **Kapitaldienstgrenze**                                                                   | Maximal tragbare Summe aus Zinsen + Tilgung pro Jahr                                           |
-| **Liquiditätsplan**                                                                       | Einnahmen-/Ausgabenplanung; Grundsätze: Vollständigkeit, Termingenauigkeit, Betragsgenauigkeit |
-| **Liquiditätsreserve**                                                                    | Kontokorrentkredit als Puffer für unerwartete Unterdeckungen                                   |
-| **Factoring**                                                                             | Verkauf von Kundenforderungen an Factor; verbessert sofort Liquidität                          |
-| **Leasing**                                                                               | Nutzungsüberlassung gegen Ratenzahlung; kein Eigentumserwerb                                   |
-| **Crowdfunding**                                                                          | Schwarmfinanzierung über Internet durch viele Kleininvestoren                                  |
-| **Rating**                                                                                | Bonitätsprüfungsverfahren der Bank; bestimmt Kreditgewährung und Zinshöhe                      |
-| **SEPA**                                                                                  | Europaweit einheitliches bargeldloses Zahlungsverfahren                                        |
+| Begriff / Formel        | Inhalt / Aussage                                                                               |
+| ----------------------- | ---------------------------------------------------------------------------------------------- |
+| **Eigenfinanzierung**   | Einsatz von Privatvermögen; Mindestanteil: 20 % empfohlen                                      |
+| **Selbstfinanzierung**  | Gewinn + Abschreibungen – Privatentnahmen – Gewinnausschüttungen                               |
+| **Fremdfinanzierung**   | Kapitalbeschaffung durch Kredite; verursacht Zins- und Tilgungspflichten                       |
+| **Kontokorrentkredit**  | Kurzfristig, flexibel abrufbar, nur genutzter Betrag wird verzinst                             |
+| **Annuitätendarlehen**  | Gleichbleibende Gesamtrate; Tilgungsanteil steigt, Zinsanteil sinkt                            |
+| **Tilgungsdarlehen**    | Gleiche Tilgungsraten; Gesamtbelastung sinkt                                                   |
+| **Festdarlehen**        | Rückzahlung am Laufzeitende; während Laufzeit nur Zinsen                                       |
+| **Goldene Bilanzregel** | Anlagevermögen durch EK + langfristiges FK decken (Anlagendeckung II ≥ 100 %)                  |
+| **Anlagendeckung I**    | Eigenkapital / Anlagevermögens \* 100                                                          |
+| **Anlagendeckung II**   | (Eigenkapital + langfristiges FK) / Anlagevermögen \* 100                                      |
+| **Kapitaldienstgrenze** | Maximal tragbare Summe aus Zinsen + Tilgung pro Jahr                                           |
+| **Liquiditätsplan**     | Einnahmen-/Ausgabenplanung; Grundsätze: Vollständigkeit, Termingenauigkeit, Betragsgenauigkeit |
+| **Liquiditätsreserve**  | Kontokorrentkredit als Puffer für unerwartete Unterdeckungen                                   |
+| **Factoring**           | Verkauf von Kundenforderungen an Factor; verbessert sofort Liquidität                          |
+| **Leasing**             | Nutzungsüberlassung gegen Ratenzahlung; kein Eigentumserwerb                                   |
+| **Crowdfunding**        | Schwarmfinanzierung über Internet durch viele Kleininvestoren                                  |
+| **Rating**              | Bonitätsprüfungsverfahren der Bank; bestimmt Kreditgewährung und Zinshöhe                      |
+| **SEPA**                | Europaweit einheitliches bargeldloses Zahlungsverfahren                                        |

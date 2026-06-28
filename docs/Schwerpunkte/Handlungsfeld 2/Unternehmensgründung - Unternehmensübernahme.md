@@ -209,8 +209,8 @@ Die Handwerkskammer ist die **gesetzliche Berufsvertretung des Gesamthandwerks**
 @startuml
 rectangle "Handwerkskammer" as HWK
 rectangle "1. Interessenvertretung" as A
-rectangle "2. Handwerksförderung\n(Bildung &amp; Beratung)" as B
-rectangle "3. Selbstverwaltung\n&amp; gesetzliche Aufgaben" as C
+rectangle "2. Handwerksförderung" as B
+rectangle "3. Selbstverwaltung" as C
 HWK -down-> A
 HWK -down-> B
 HWK -down-> C
